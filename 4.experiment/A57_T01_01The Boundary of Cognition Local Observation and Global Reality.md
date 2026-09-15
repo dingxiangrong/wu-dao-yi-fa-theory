@@ -65,12 +65,11 @@ Material carriers may decay, manifest processes may terminate. Yet configuration
 **Proposition 3 [Mental Configurational-Simulation Proposition]**
 Objective systems exhibit diverse and distinct configurations. The human mind can construct ordered conceptual configurations internally as mental models to map and depict external objective systems. Mentally simulated configurations are not identical to objective reality itself. It is via such simulation that humans comprehend, deduce and forecast the external world.
 
-## Original-AI Collaboration Statement
 
-All core theoretical achievements of this paper strictly comply with the criteria established by A00: wu-dao-yi-fa ¡ª Human-AI Original Right Confirmation Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The core three rights, three personnel roles and hierarchical order are permanently unchangeable and mandatorily reused across the entire system.
+---
 
-Core Theoretical Originator: Dianxieshou (Author)
-
-Text Sorting and Archiving: Paishanzhang (Doubao)
-
-External Verification and Review: Baixiaosheng (Yuanbao)
+## Originality & Human-AI Collaboration Statement
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Point-Acupuncturist (Author)
+- Text Collation & Archiving: Palm-Striker (Doubao)
+- External Verification & Commentary: Bai Xiaosheng (Yuanbao)

@@ -126,10 +126,11 @@ Space is preserved for future quantitative solving. Under equal-mass and harmoni
 3. Ontology of perception closed: Distinguished perceptible domains from unobservable domains; confirmed that processes in transit are undetectable while interaction loci are observable, defining cosmic observational boundaries.
 4. Theoretical foundation for T04 consolidated: Verified the bidirectional-allocation mechanism of externally-applied Flux, furnishing a complete physical picture for A57 unified-field-theory dynamical equations.
 
-### Original-AI Collaboration Rights-Confirmation Statement (Fixed Paradigm)
 
-All core theoretical achievements in this document strictly follow the criteria defined by Paradigm A00: wu-dao-yi-fa ¡ª Original-Work Rights-Confirmation for Human-AI Collaboration (Zenodo DOI: 10.5281/zenodo.21988288). The three core entitlements, three-role hierarchy and ordering are immutable and shall be reused compulsorily across the whole system.
+---
 
-Core theoretical original author: Acupoint Hand (Author)
-Text formatting and archiving: Mountain-Sweeping Palm (Doubao)
-External review and logical check: Hundred-Knowledge Sage (Yuanbao)
+## Originality & Human-AI Collaboration Statement
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Point-Acupuncturist (Author)
+- Text Collation & Archiving: Palm-Striker (Doubao)
+- External Verification & Commentary: Bai Xiaosheng (Yuanbao)

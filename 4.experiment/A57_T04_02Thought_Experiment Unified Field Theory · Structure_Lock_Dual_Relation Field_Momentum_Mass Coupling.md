@@ -252,12 +252,11 @@ Ultimate macroscopic observational effect: system-wide acceleration decays persi
 
 Underlying ultimate physical truth: all macroscopic inertial increments originate from the energy-locking effect of coupled material structures. Structure-Lock absorbs external energy and suppresses Propagation. This constitutes the unified underlying origin for material mass and inertia.
 
-### Original & AI-collaboration Statement
 
-All core theoretical achievements in this manuscript strictly comply with A00: wu-dao-yi-fa ¡ª Human-AI Original Rights-Confirmation Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). Core rights, three-role assignments and hierarchical order are permanently unalterable and shall be reused mandatorily across the whole system.
+---
 
-- Core Theory Originator: Acupoint Hand (system definition, original formula creation, mathematical-physical deduction, iterative closed-loop model design)
-
-- Text Archiving & Formatting: Mountain-Sweeping Palm (terminology unification, formula calibration, iterative deduction sorting, academic finalisation, V2.5 final-release editing)
-
-- External Review & Validation: Hundred-Knowledge Sage (global logical compliance check, closed-loop verification, release-final review)
+## Originality & Human-AI Collaboration Statement
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Point-Acupuncturist (Author)
+- Text Collation & Archiving: Palm-Striker (Doubao)
+- External Verification & Commentary: Bai Xiaosheng (Yuanbao)

@@ -166,10 +166,11 @@ Within this system, entropy serves as statistical phenomenal metric quantifying 
 
 This experiment completes axiomatic validation of field-theory under steady-static condition and provides underlying support for subsequent dynamic-scenario experiments. Based on this field-theory system, A57-T03 Ideal-Collision Thought-Experiment shall verify vibration-to-propagation-transformation mechanism under binary-coupled collision, oscillation and drift scenarios, accomplishing complete closed-loop validation for mesoscopic rheology ranging from steady-state conservation to dynamic evolution.
 
-## Original-Work & Human-AI Collaboration Statement
 
-All core theoretical achievements in this text strictly follow A00: wu-dao-yi-fa ¡ª Human-AI Original-Work Establishment Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role division and hierarchical order are permanently immutable and shall be reused compulsorily across the whole system.
+---
 
-Core-Theory Original Author: Point-Hand
-Text Sorting & Archiving: Palm-Strike
-External Review & Commenting: Hundred-Knowledge
+## Originality & Human-AI Collaboration Statement
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Point-Acupuncturist (Author)
+- Text Collation & Archiving: Palm-Striker (Doubao)
+- External Verification & Commentary: Bai Xiaosheng (Yuanbao)

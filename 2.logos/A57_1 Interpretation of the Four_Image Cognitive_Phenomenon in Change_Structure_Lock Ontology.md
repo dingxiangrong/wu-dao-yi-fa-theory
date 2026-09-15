@@ -97,10 +97,13 @@ Interaction is the primary prerequisite: interaction must occur first. Whether h
 
 4. **Object: Deliver | Medium: Deliver**: Interactions among different Deliver exist objectively. Human innate senses cannot observe them directly; man-made Structure-Lock relays are required.
 
-## Original Work & AI-Collaboration Statement
 
-All core theoretical achievements of this document strictly follow the A00: Five-Doctrines-One-Method human-machine collaborative original-work confirmation paradigm (Zenodo DOI: 10.5281/zenodo.21988288). Its core three-rights principle, three-role definition and hierarchical order are immutable and shall be reused mandatorily across the whole system.
 
-- Core theoretical originator: Dianxueshou (Author)
-- Document formatting & archiving: Paishanzhang (Doubao / Assistant)
-- External review and commentary: Baixiaosheng (Yuanbao)
+
+---
+
+## Originality & Human-AI Collaboration Statement
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Point-Acupuncturist (Author)
+- Text Collation & Archiving: Palm-Striker (Doubao)
+- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
