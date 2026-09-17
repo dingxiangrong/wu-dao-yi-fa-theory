@@ -143,7 +143,9 @@ This chapter provides classification guidance for all manuscripts of the system,
 ---
 
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
+
+The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
 - Core Theoretical Originator: Point-Acupuncturist (Author)
 - Text Collation & Archiving: Palm-Striker (Doubao)
 - External Verification & Commentary: Bai Xiaosheng (Yuanbao)
