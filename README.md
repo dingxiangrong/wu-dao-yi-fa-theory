@@ -1,4 +1,4 @@
-# wu-dao-yi-fa£üSix-Tier Endogenous Architecture£üSee ¡¤ Logos ¡¤ Norm ¡¤ Experiment ¡¤ Yield ¡¤ Record | General Outline
+# wu-dao-yi-faï½œSix-Tier Endogenous Architectureï½œSee Â· Logos Â· Norm Â· Experiment Â· Yield Â· Record | General Outline
 
 > Whether it is grass or a tree, wu-dao-yi-fa grows out of the soil.
 >
@@ -6,7 +6,7 @@
 ## 1. Architecture General Outline
 This is a fully endogenous ideological system. All theories, axioms, deductions, methodologies, experiments and records emerge organically from raw perceptions and thought-experiments. Like vegetation growing from fertile soil, it has no pre-fabricated framework, no external templates and no inherited traditional dogmas.
 
-Native cognitive progression chain: **Record ¡ú See ¡ú Logos ¡ú Norm ¡ú Experiment ¡ú Yield**
+Native cognitive progression chain: **Record â†’ See â†’ Logos â†’ Norm â†’ Experiment â†’ Yield**
 
 Definitions for distinction:
 - **Record-Division**: Faithful recording of observable events (e.g. an apple falling) plus fleeting conjectures at the moment; material snapshots and informal thought notes.
@@ -16,25 +16,25 @@ Definitions for distinction:
 - **Experiment-Division**: Construct thought-experiments to verify the self-consistency of conjectures.
 - **Yield-Division**: Transform verified theories into practical, engineer-implementable deliverables.
 
-It precisely corresponds to the complete closed-loop human cognition: **Observe ¡ú Understand ¡ú Define ¡ú Verify ¡ú Apply ¡ú Record-Preserve**
+It precisely corresponds to the complete closed-loop human cognition: **Observe â†’ Understand â†’ Define â†’ Verify â†’ Apply â†’ Record-Preserve**
 
 **Iron Law of Tier Transition (Irreversible, non-crossing, non-reversed order):**
-See-Division (raw source materials) ¡ú Logos-Division (axiom foundation) ¡ú Norm-Division (value-oriented deduction) ¡ú Experiment-Division (simulation & falsification check) ¡ú Yield-Division (practical implementation) ¡ú Record-Division (archiving & iterative inheritance)
+See-Division (raw source materials) â†’ Logos-Division (axiom foundation) â†’ Norm-Division (value-oriented deduction) â†’ Experiment-Division (simulation & falsification check) â†’ Yield-Division (practical implementation) â†’ Record-Division (archiving & iterative inheritance)
 
 **Fixed English aliases for each Division (final lock, conceptual label only; historical Axx document numbers remain unchanged):**
 - See-Division (S) = See-Observation & Phenomenon Perception
 - Logos-Division (L) = Logos-Objective Universal Order of all things (includes Four Laws of Boundary-Expansion and the neutral methodology *Virtue-Defined-by-Self*)
 - Norm-Division (N) = Norm-Human-made value criteria & value-setting reasoning (contains three core sub-domains)
-  - Humanity Domain: Humanity (Prefix-B) ¨C Individual subjectivity, mind-set and human-centered values
-  - Economy Domain: Economy (Prefix-J) ¨C Industrial-economic operation and material-world value trade-offs
-  - Civilization Domain: Civilization (Prefix-H) ¨C Civilization evolution and spiritual-order construction
+  - Humanity Domain: Humanity (Prefix-B) â€“ Individual subjectivity, mind-set and human-centered values
+  - Economy Domain: Economy (Prefix-J) â€“ Industrial-economic operation and material-world value trade-offs
+  - Civilization Domain: Civilization (Prefix-H) â€“ Civilization evolution and spiritual-order construction
 - Experiment-Division (T) = Experiment-Thought-experiment and deductive validation
 - Yield-Division (Y) = Yield-Practical output & real-world application
 - Record-Division (R) = Record-Chronicle logging & successive inheritance
 > Core Juridical Maxim: Logos provides the methodology for defining virtue; Norm endows virtue with substantive meaning. The Logos-Division supplies neutral general rules for virtue-setting, while the Norm-Division fills substantive virtues and value curves for the three domains: humanity, economy and civilization.
 
 ## 2. Precise Definition for Six Tiers (Original final-version boundaries; retains core of original four-tier framework plus two newly finalized tiers)
-### 2.1 See-Division [Perception-Record Layer£üS=See]
+### 2.1 See-Division [Perception-Record Layerï½œS=See]
 **Cognitive Orientation: Observe**
 
 The sole native soil for all ideas within this system. It purely collects objective phenomena, thought-experiment scenarios, observational snapshots of changing processes, and real-world factual objects. It only keeps records, provides no interpretation, generates no insights, establishes no axioms, and renders no value judgments. All raw observational materials feed into this layer.
@@ -42,7 +42,7 @@ The sole native soil for all ideas within this system. It purely collects object
 - **Core Traits**: Native, objective, unprocessed, the soil of theories
 - **Core Logic**: Only present observed facts; do not interpret, judge, or establish arguments. Consistent with the J-series writing paradigm: present phenomena first at the opening.
 
-### 2.2 Logos-Division [Kernel-Rule-Setting Layer£üL=Logos]
+### 2.2 Logos-Division [Kernel-Rule-Setting Layerï½œL=Logos]
 **Cognitive Orientation: Understand & Establish Principles**
 
 The core backbone and axiomatic origin of the whole system. Native insights are distilled from objective materials of the See-Division to standardize the system. It bears the objective universal order of all things:
@@ -52,9 +52,9 @@ The core backbone and axiomatic origin of the whole system. Native insights are 
 - Host the Four Laws of Boundary-Expansion, including the neutral general-purpose methodology of *Virtue-Defined-by-Self* (provides only virtue-setting rules without assigning concrete values)
 
 - **Core Traits**: Establishes axioms, sets boundaries, formulates definitions; the sole kernel of the system; objectively value-neutral
-- **Core Logic**: Serves as the system¡¯s "constitutional layer". Underlying rules shall be established first, before all subsequent deduction, virtue-setting, experimentation and implementation.
+- **Core Logic**: Serves as the systemâ€™s "constitutional layer". Underlying rules shall be established first, before all subsequent deduction, virtue-setting, experimentation and implementation.
 
-### 2.3 Norm-Division [Deduction-Virtue-Setting Layer£üN=Norm]
+### 2.3 Norm-Division [Deduction-Virtue-Setting Layerï½œN=Norm]
 **Cognitive Orientation: Define & Virtue-Oriented Deduction**
 
 The comprehensive outward-extension and value-finalization layer of the system. Strictly based on the objective axioms set by the Logos-Division, human agents formulate value criteria and virtue trade-offs. It fills substantive values for the three core domains, performs compliant deduction, in-depth interpretation and deconstruction of external phenomena:
@@ -66,7 +66,7 @@ The comprehensive outward-extension and value-finalization layer of the system. 
 - **Core Traits**: Establish virtue upon Logos principles; interpret the world from core axioms; only extend outward without generating new fundamental axioms; assign value to axioms
 - **Core Logic**: Reuse established Logos-Division axioms to assign values and interpret worldly phenomena; only perform outward extension and shall not add new fundamental axioms.
 
-### 2.4 Experiment-Division [Simulation-Verification Layer£üT=Experiment]
+### 2.4 Experiment-Division [Simulation-Verification Layerï½œT=Experiment]
 **Cognitive Orientation: Simulation Verification**
 
 The filtering gateway between theories and reality. It receives complete deductive conclusions from the Norm-Division. Through thought-experiments, hypothetical modeling and scenario deduction, it tests feasibility and self-consistency of axioms, models and value propositions. Logically-conflicting or invalid conjectures are filtered out before being passed to the Yield-Division.
@@ -74,7 +74,7 @@ The filtering gateway between theories and reality. It receives complete deducti
 - **Core Traits**: Does not generate fundamental axioms or new values; only performs falsification, verification and screening.
 - **Core Logic**: Logos sets axioms, Norm performs deduction, Experiment distinguishes truth from falsity. Conjectures shall not flow into practical layers without experimental verification.
 
-### 2.5 Yield-Division [Practice-Boundary-Expansion Layer£üY=Yield]
+### 2.5 Yield-Division [Practice-Boundary-Expansion Layerï½œY=Yield]
 **Cognitive Orientation: Practical Implementation**
 
 The value outlet and boundary-expansion methodology of the whole system. Theoretical achievements from See-Logos-Norm-Experiment are transformed into reusable, actionable, iterative speculative paradigms:
@@ -86,7 +86,7 @@ The value outlet and boundary-expansion methodology of the whole system. Theoret
 - **Core Traits**: Unity of knowledge and action; govern techniques by principles; boundary-expansion & practical applicability
 - **Core Logic**: Theories shall not remain empty speculations. Convert previous-layer achievements into actionable, reusable methodologies and engineering deliverables.
 
-### 2.6 Record-Division [Reception-Archiving Layer£üR=Record]
+### 2.6 Record-Division [Reception-Archiving Layerï½œR=Record]
 **Cognitive Orientation: Reception & Preservation**
 
 The closed-loop reflux node of the whole system. It receives outputs from See, Logos, Norm, Experiment and Yield. It archives finalized manuscripts, version iterations, draft fragments, thought journals and system-evolution traces. Archived materials reflux to feed the See-Division and complete the full closed-loop.
@@ -111,7 +111,7 @@ Only receive and archive; do not generate new theoretical content.
 > Annotation: Constraints accumulated from past engineering pitfalls are practical instantiations of these six systemic red lines.
 
 ## 4. Unified Traceability Paradigm
-Closed-loop traceability of the whole system: **Originate from observed reality ¡ú Settled by Logos axioms ¡ú Unfold through Norm deduction ¡ú Distinguished by Experiment simulation-verification ¡ú Realized via Yield practice ¡ú Return to Record for reception-archiving.**
+Closed-loop traceability of the whole system: **Originate from observed reality â†’ Settled by Logos axioms â†’ Unfold through Norm deduction â†’ Distinguished by Experiment simulation-verification â†’ Realized via Yield practice â†’ Return to Record for reception-archiving.**
 
 ## 5. Document-Assignment Guidelines
 This chapter provides classification guidance for all manuscripts of the system, defining responsibilities of each division as the basis for manuscript archiving.
@@ -143,9 +143,8 @@ This chapter provides classification guidance for all manuscripts of the system,
 ---
 
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
-
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa â€” Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
 The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ç‚¹ç©´æ‰‹)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / æŽ’å±±æŽŒ)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ç™¾æ™“ç”Ÿ)
