@@ -1,19 +1,19 @@
-# A57-T04-02 Thought-Experiment: Unified Field Theory °§ Structure-Lock-Dual-Relation Field-Momentum-Mass Coupling V2.5
+# A57-T04-02 Thought-Experiment: Unified Field Theory ¬∑ Structure-Lock-Dual-Relation Field-Momentum-Mass Coupling V2.5
 
 ## Document Basic Information
 
-System Affiliation: A57 Flux-Transformation Theory£¸Verification Section °§ Core Axiom Verification Series
+System Affiliation: A57 Flux-Transformation TheoryÔΩúVerification Section ¬∑ Core Axiom Verification Series
 Experiment ID: A57-T04-02
-Version Level: V2.5 (Final Archiving Version£¸Three-layer Architecture: Descriptive °˙ Qualitative °˙ Quantitative Full Closed-Loop)
-Predecessor Experiment Chain: A57-T02-01 (Dual-Relation Field Ontology, Yun Foundation) °˙ A57-T03-01 (Local Vibration-Propagation Transformation) °˙ A57-T04-02 (Verification of Origin Coupling among Structure-Lock-Dual-Relation Field-Momentum-Mass)
+Version Level: V2.5 (Final Archiving VersionÔΩúThree-layer Architecture: Descriptive ‚Üí Qualitative ‚Üí Quantitative Full Closed-Loop)
+Predecessor Experiment Chain: A57-T02-01 (Dual-Relation Field Ontology, Yun Foundation) ‚Üí A57-T03-01 (Local Vibration-Propagation Transformation) ‚Üí A57-T04-02 (Verification of Origin Coupling among Structure-Lock-Dual-Relation Field-Momentum-Mass)
 
 ## Version Iteration Notes
 
-1. Completely eliminate the full conceptual system of °∞Yun°±, Yun-storage and Field-Yun across the manuscript, fully solidify the pure Structure-Lock energy-locking system.
+1. Completely eliminate the full conceptual system of ‚ÄúYun‚Äù, Yun-storage and Field-Yun across the manuscript, fully solidify the pure Structure-Lock energy-locking system.
 
 2. Repair character defects and missing formula elements in the original text, unify the complete set of mathematical-physical symbol systems.
 
-3. Solidify core definitions $M_{eff}=M_{inherent}+M_{S-lock}$ and $M_{S-lock}=¶¡-d_{map}$, supplement dimensional descriptions and physical interpretations.
+3. Solidify core definitions $M_{eff}=M_{inherent}+M_{S-lock}$ and $M_{S-lock}=Œ±-d_{map}$, supplement dimensional descriptions and physical interpretations.
 
 4. Precisely clarify the physical boundary: zero external work in the first round, continuous work input starting from the second round, eliminate internal system contradictions.
 
@@ -23,11 +23,11 @@ Predecessor Experiment Chain: A57-T02-01 (Dual-Relation Field Ontology, Yun Foun
 
 ## Abstract
 
-Based on the A57 Flux-Transformation Theory, this thought-experiment constructs a one-dimensional undamped ideal two-ball coupling model. Abandoning the old °∞Yun°± conceptual system, all self-consistent deductions are completed under the theoretical framework of pure Structure-Lock energy-locking. Two-layer scales are strictly distinguished: real geometric spacing and system-specific equivalent Structure-Lock-state distance. Geometric quantities serve for classical dynamics solving; Structure-Lock-state quantities are exclusively used to calibrate energy-locking levels of structures. The two categories are dimension-isolated and functionally separated, thoroughly eliminating confusion between mathematical and physical quantities.
+Based on the A57 Flux-Transformation Theory, this thought-experiment constructs a one-dimensional undamped ideal two-ball coupling model. Abandoning the old ‚ÄúYun‚Äù conceptual system, all self-consistent deductions are completed under the theoretical framework of pure Structure-Lock energy-locking. Two-layer scales are strictly distinguished: real geometric spacing and system-specific equivalent Structure-Lock-state distance. Geometric quantities serve for classical dynamics solving; Structure-Lock-state quantities are exclusively used to calibrate energy-locking levels of structures. The two categories are dimension-isolated and functionally separated, thoroughly eliminating confusion between mathematical and physical quantities.
 
 Deductions demonstrate that the intrinsic inertial mass of the two-ball coupled system remains permanently constant. No external work is done in the first iteration. Starting from the second round, constant external force continuously injects energy. The vast majority of input energy is permanently locked in internal oscillations of the coupled structure, and only a tiny fraction is converted into macroscopic centre-of-mass translational kinetic energy of the system. As iteration rounds increase, collision periods keep stretching, and macroscopic centre-of-mass acceleration decays continuously.
 
-This paper establishes the equivalent apparent-mass splitting model $M_{eff}=M_{inherent}+M_{S-lock}$, and explicitly defines Structure-Lock-locked equivalent inertial mass $M_{S-lock}=¶¡-d_{map}$ ($¶¡$ is a dimensionless internal proportional constant of the A57 system). The more energy locked by the structure, the larger the Structure-Lock-locked equivalent inertial mass and the stronger equivalent apparent inertia exhibited by the system. Under limiting conditions, centre-of-mass acceleration approaches zero, and the system equivalent apparent mass tends toward infinity.
+This paper establishes the equivalent apparent-mass splitting model $M_{eff}=M_{inherent}+M_{S-lock}$, and explicitly defines Structure-Lock-locked equivalent inertial mass $M_{S-lock}=Œ±-d_{map}$ ($Œ±$ is a dimensionless internal proportional constant of the A57 system). The more energy locked by the structure, the larger the Structure-Lock-locked equivalent inertial mass and the stronger equivalent apparent inertia exhibited by the system. Under limiting conditions, centre-of-mass acceleration approaches zero, and the system equivalent apparent mass tends toward infinity.
 
 This experiment finally proves that the increment of macroscopic inertia originates from the energy-locking effect of structures. Structure-Lock absorbs external energy and suppresses macroscopic acceleration. It provides a complete and self-consistent thought-experimental demonstration for the underlying physical origin of material mass and inertia.
 
@@ -49,7 +49,7 @@ Systematically investigate the underlying coupling relationship among material s
 
 1. Strictly isolate physical momentum, physical energy and Structure-Lock-state parameters to eliminate dimensional confusion and logical contradictions.
 
-2. Quantitatively decompose the energy-shunting mechanism of externally-input work: External Work °˙ Internally-Locked Oscillation Energy + Macroscopic Centre-of-Mass Translational Kinetic Energy.
+2. Quantitatively decompose the energy-shunting mechanism of externally-input work: External Work ‚Üí Internally-Locked Oscillation Energy + Macroscopic Centre-of-Mass Translational Kinetic Energy.
 
 3. Establish the two-layer physical description framework: Classical Geometric Dynamics + Structure-Lock-state Equivalent Conversion, enabling computable real-world motion and traceable Structure-Lock-state.
 
@@ -101,7 +101,7 @@ The right sphere is subject to balanced inward internal attractive force and out
 
 ### Phase 2: First Elastic Collision T1
 
-The accelerating left sphere strikes the stationary right sphere. Standard equal-mass fully-elastic collision occurs with strict velocity exchange. After collision, the right sphere flies outward at constant velocity carrying kinetic energy, while the left sphere°Øs velocity drops to zero. The coupled structure completes its first round of internal energy reconstruction and initial Structure-Lock-state energy-locking.
+The accelerating left sphere strikes the stationary right sphere. Standard equal-mass fully-elastic collision occurs with strict velocity exchange. After collision, the right sphere flies outward at constant velocity carrying kinetic energy, while the left sphere‚Äôs velocity drops to zero. The coupled structure completes its first round of internal energy reconstruction and initial Structure-Lock-state energy-locking.
 
 ### Phase 3: Core Iterative Evolution Phenomena
 
@@ -137,7 +137,7 @@ $$M_{eff}=M_{inherent}+M_{S-lock}$$
 
 1. $M_{inherent}$: inherent intrinsic mass of the system, $M_{inherent}=m_{left}+m_{right}=2$, permanently constant and unrelated to inertial increment.
 
-2. $M_{S-lock}$: Structure-Lock-locked equivalent inertial mass, monotonically increasing with iteration rounds. System-standard definition: $M_{S-lock}=¶¡-d_{map}$. $¶¡$ is a dimensionless internal proportional constant for A57 system; $d_{map}$ is equivalent Structure-Lock-state distance at collision instant.
+2. $M_{S-lock}$: Structure-Lock-locked equivalent inertial mass, monotonically increasing with iteration rounds. System-standard definition: $M_{S-lock}=Œ±-d_{map}$. $Œ±$ is a dimensionless internal proportional constant for A57 system; $d_{map}$ is equivalent Structure-Lock-state distance at collision instant.
 
 3. $M_{eff}$: macroscopic observed equivalent apparent mass, representing total system inertia measurable by external observers.
 
@@ -163,7 +163,7 @@ Classical kinematic solution: $s=\frac{1}{2} a t^{2}$. Substitute $s=2$, $a=1$, 
 
 Pre-collision velocity of left sphere: $v_{left}=a t_{0}=2$, right-sphere velocity $v_{right}=0$.
 
-Total system momentum: $P_{total,0}=2°¡1+0=2$.
+Total system momentum: $P_{total,0}=2√ó1+0=2$.
 
 Equivalent Structure-Lock-state distance for this round: $d_{map,0}=P_{total,0}=2$.
 
@@ -185,7 +185,7 @@ Kinetic energy of left sphere at collision instant: $E_{k0}=\frac{1}{2} m v^{2}=
 
 ### 8.1 Core Iteration Logic
 
-No additional physical rules are introduced throughout. Evolution follows purely classical dynamics. Complete causal chain: Real geometric spacing °˙ relative motion driven by internal attraction °˙ collision velocity reconstruction °˙ solving total momentum & calibrating Structure-Lock-state locked-energy level °˙ new-cycle constant-velocity escape + uniformly-accelerated chasing °˙ cyclic iteration with continuous accumulation of locked energy.
+No additional physical rules are introduced throughout. Evolution follows purely classical dynamics. Complete causal chain: Real geometric spacing ‚Üí relative motion driven by internal attraction ‚Üí collision velocity reconstruction ‚Üí solving total momentum & calibrating Structure-Lock-state locked-energy level ‚Üí new-cycle constant-velocity escape + uniformly-accelerated chasing ‚Üí cyclic iteration with continuous accumulation of locked energy.
 
 Core principle: Real-world motion is solved entirely by classical equations. Structure-Lock-state parameters only record energy-locking level of each round to realise traceable iterative closed-loop.
 
@@ -193,15 +193,15 @@ Core principle: Real-world motion is solved entirely by classical equations. Str
 
 Initial conditions after first collision: two spheres coincide spatially, geometric spacing = 0; left-sphere velocity resets to zero, acceleration $a=1$; right-sphere velocity $v=2$, escaping at constant velocity under force balance.
 
-Let time elapsed after collision be $¶”$. Position equations:
+Let time elapsed after collision be $œÑ$. Position equations:
 
-Right sphere: $x_{R}(¶”)=2¶”$
+Right sphere: $x_{R}(œÑ)=2œÑ$
 
-Left sphere: $x_{L}(¶”)=\frac{1}{2}¶”^{2}$
+Left sphere: $x_{L}(œÑ)=\frac{1}{2}œÑ^{2}$
 
-Instantaneous geometric spacing: $d_{geo}(¶”)=2¶”-\frac{1}{2}¶”^{2}$
+Instantaneous geometric spacing: $d_{geo}(œÑ)=2œÑ-\frac{1}{2}œÑ^{2}$
 
-Collision condition $d_{geo}(¶”)=0$, valid chasing time solved as $¶”=4$.
+Collision condition $d_{geo}(œÑ)=0$, valid chasing time solved as $œÑ=4$.
 
 Pre-collision velocities: $v_{left}=4$, $v_{right}=2$.
 
@@ -216,7 +216,7 @@ Iterative phenomenon verification: chasing period lengthens markedly; structural
 ### 8.3 General Standard Workflow for the N-th Iteration
 
 1. Input: read position and velocity states of two spheres upon completion of previous-round collision.
-2. Evolution: right sphere escapes at constant velocity; left sphere chases with uniform acceleration; solve chasing time $¶”_{n}$ for current round via classical kinematics.
+2. Evolution: right sphere escapes at constant velocity; left sphere chases with uniform acceleration; solve chasing time $œÑ_{n}$ for current round via classical kinematics.
 3. Calibration: compute total system momentum $P_{total,n}$ before collision; convert to Structure-Lock-state distance $d_{map,n}=P_{total,n}$ and record current-round energy-locking level.
 4. Reconstruction: perform equal-mass elastic-collision velocity exchange and refresh system kinematic states.
 5. Cycle: proceed to next iteration for continuous accumulation of Structure-Lock-locked energy.
@@ -256,7 +256,8 @@ Underlying ultimate physical truth: all macroscopic inertial increments originat
 ---
 
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa °™ Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ‚Äî Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
+The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ÁÇπÁ©¥Êâã)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / ÊéíÂ±±Êéå)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ÁôæÊôìÁîü)

@@ -57,7 +57,7 @@ $C(t)$, $M(t)$ and $E(t)$ adopt Yun uniformly as the unit of measurement.
 
 **Definition**: 
 
-A Construct is a structure possessing locking-retention capacity. In formal mathematical representation, a Construct can be treated as a constraint function with critical domain boundaries. Inputs are structural parameters of one or more entities; output is a numerical value representing this construct¡¯s capacity to lock-retain Flux.
+A Construct is a structure possessing locking-retention capacity. In formal mathematical representation, a Construct can be treated as a constraint function with critical domain boundaries. Inputs are structural parameters of one or more entities; output is a numerical value representing this constructâ€™s capacity to lock-retain Flux.
 
 The function has strict critical boundaries: within boundary intervals, configuration remains stable and locking-retention is valid. Once parameters exceed critical thresholds, locking-retention fails, configuration collapses and the function domain is truncated and invalidated.
 
@@ -141,7 +141,7 @@ A Container-Construct is a special ordered construct complying with all underlyi
 
 **Definition**: 
 
-Numerous independent constructs each maintain steady one-to-one locking-retention dual relations with a Container-Construct to form the system¡¯s stable substrate. Meanwhile independent constructs engage transient non-binding reciprocal interactions without structural fusion or new-construct generation. The holistic stable systemic state emerging from superposition of steady pairwise dual-relations and interleaved transient internal interactions is defined as Macro Inter-Construct State.
+Numerous independent constructs each maintain steady one-to-one locking-retention dual relations with a Container-Construct to form the systemâ€™s stable substrate. Meanwhile independent constructs engage transient non-binding reciprocal interactions without structural fusion or new-construct generation. The holistic stable systemic state emerging from superposition of steady pairwise dual-relations and interleaved transient internal interactions is defined as Macro Inter-Construct State.
 
 ## Part III: Descriptive Tools (Non-Reality)
 ### 11. Field
@@ -161,7 +161,7 @@ Force is a descriptive tool and not an objective ontological reality. It charact
 - **Force does not generate, consume or transform Flux ($C$). It only describes magnitude and direction of inter-construct tendencies.**
 
 ## Part IV: System-Wide Mandatory Prohibitions (Permanently Locked V1.7)
-1. No custom symbols shall be assigned to Field, Force, Vibration, Propagation, Deliver, Container-Construct, Macro Inter-Construct State ¡ª these are relational / descriptive / derivative concepts.
+1. No custom symbols shall be assigned to Field, Force, Vibration, Propagation, Deliver, Container-Construct, Macro Inter-Construct State â€” these are relational / descriptive / derivative concepts.
 2. The symbol C shall denote nothing other than primordial Flux.
 3. No new ontological interpretations shall be arbitrarily assigned to M or E.
 4. Primordial ontological realities receive exclusive single-letter abbreviations. Relational, metrological-descriptive and derivative concepts must not occupy primary ontological symbols.
@@ -169,9 +169,8 @@ Force is a descriptive tool and not an objective ontological reality. It charact
 
 ---
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
-
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa â€” Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
 The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Dian-Xue-Shou,Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ç‚¹ç©´æ‰‹)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / æŽ’å±±æŽŒ)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ç™¾æ™“ç”Ÿ)

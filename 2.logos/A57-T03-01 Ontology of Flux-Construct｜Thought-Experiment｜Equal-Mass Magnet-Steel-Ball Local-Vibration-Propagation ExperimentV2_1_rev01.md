@@ -5,7 +5,7 @@
 
 **Affiliation**: Five-Doctrines-One-Law | The Way of the World | Ontology of Flux-Construct | Thought-Experiment
 
-**Pre-experimental Chain**: A57-T02-01 (Dual-Relation Descriptor, Yun-flux Foundation) °˙ A57-T03-01 (Construct-to-Construct Interaction Intersection, Bidirectional Local-Vibration-Propagation Allocation) °˙ A57-T04-01 (Unified Coupling of Construct-Dual-Interaction-Momentum)
+**Pre-experimental Chain**: A57-T02-01 (Dual-Relation Descriptor, Yun-flux Foundation) ‚Üí A57-T03-01 (Construct-to-Construct Interaction Intersection, Bidirectional Local-Vibration-Propagation Allocation) ‚Üí A57-T04-01 (Unified Coupling of Construct-Dual-Interaction-Momentum)
 
 ## Abstract
 This document presents a two-body ideal-oscillation thought-experiment within the A57 Flux-Transformation Theory framework. Taking a dual-sphere (dual-Construct) system with attractive-repulsive objective dual-interaction as its model carrier, it defines concrete physical processes for the two derivative-ontological concepts **Local-Vibration** and **Propagation**. The text uniformly sets pre-experimental environments, input parameters, evolutionary causal chains and collision rules, then proceeds with descriptive phenomenon recording and qualitative proposition deduction, while reserving an entry for quantitative experiments.
@@ -42,7 +42,7 @@ Primitive dynamic variable: positions of the two spheres. Derived variables are 
 4. Acceleration: Instantaneous acceleration of each sphere derived from force and mass
 5. Velocity: Instantaneous velocity of each sphere modified by acceleration
 
-Causal sequence: Position change °˙ Distance change °˙ Force change °˙ Acceleration change °˙ Velocity change.
+Causal sequence: Position change ‚Üí Distance change ‚Üí Force change ‚Üí Acceleration change ‚Üí Velocity change.
 
 Supplementary note: Positions and velocities may be decomposed into X and Y components following standard mathematical procedures; component-level details are omitted herein. This thought-experiment adopts only logical reasoning without numerical computation.
 
@@ -50,7 +50,7 @@ Supplementary note: Positions and velocities may be decomposed into X and Y comp
 1. Perfectly elastic collision occurs upon physical contact between the two spheres.
 2. A contact tangent is generated at collision instant; the normal of this tangent strictly coincides with the line connecting the centres of the two spheres.
 
-## II. Tier One: Descriptive Experiment (Objective Phenomenon Recording °™ No Subjective Inference)
+## II. Tier One: Descriptive Experiment (Objective Phenomenon Recording ‚Äî No Subjective Inference)
 ### 2.1 Undisturbed Pure Steady-state Oscillation Evolution
 The centre-of-mass of the dual-Construct rests at the origin. Driven by objective dual-attractive interaction, the spheres move towards one another. Yun-potential energy is converted into motional Yun-flux. Near-field regions of peak interaction strength produce collision-like interactions; internal Yun-flux oscillation becomes locked-in and the system enters the **Local-Vibration state**. The spheres then rebound in opposite directions with potential energy restored, completing one self-sustained oscillation cycle.
 
@@ -63,7 +63,7 @@ Objective phenomenon: The system presents a co-existence state of bulk Propagati
 
 ### 2.3 Key Newly-discovered Objective Phenomena (Added in V2.0)
 1. **Y=0 Symmetry Benchmark**
-Sphere A and Sphere B are always distributed symmetrically about Y=0. The mid-point of the line connecting their centres-of-mass stays permanently on the Y=0 axis, and the whole system maintains mirror symmetry across Y=0. This constitutes a geometric invariant for bidirectional Yun-flux allocation °™ the symmetry holds regardless of interaction intensity or physical contact.
+Sphere A and Sphere B are always distributed symmetrically about Y=0. The mid-point of the line connecting their centres-of-mass stays permanently on the Y=0 axis, and the whole system maintains mirror symmetry across Y=0. This constitutes a geometric invariant for bidirectional Yun-flux allocation ‚Äî the symmetry holds regardless of interaction intensity or physical contact.
 
 2. **X-axis Dual-String Longitudinal Wave**
 Bidirectional counter-propagating longitudinal waves arise along the line connecting sphere centres, corresponding to dX momentum-Yun-flux transfer. A symmetric kinematic feature is observed: the leading sphere decelerates while the trailing sphere accelerates. The leading sphere transfers part of its directional Yun-flux to the trailing sphere, which gains acceleration; their velocities exchange equally and oppositely in the centre-of-mass frame.
@@ -72,7 +72,7 @@ Bidirectional counter-propagating longitudinal waves arise along the line connec
 Shear transverse waves are generated in the perpendicular direction, corresponding to alternating excitation of dY Yun-flux. The two Constructs exhibit steady-state alternating tumbling in opposite directions. The leading sphere excites a transverse wave on one Y-side, and the trailing sphere synchronously excites a counter-transverse wave, forming transverse-wave pairs for Sphere A and Sphere B symmetric about the Y=0 axis.
 
 4. **Full-view Wave-Packet Structure**
-Under any Construct-to-Construct interaction scenario (far-range weak interaction / near-range strong interaction / contact-type strong-peak interaction), the standard °∞dual-longitudinal + single-transverse°± wave-packet structure is fully generated. Only amplitude magnitudes differ; wave-packet topology does not vary with interaction distance.
+Under any Construct-to-Construct interaction scenario (far-range weak interaction / near-range strong interaction / contact-type strong-peak interaction), the standard ‚Äúdual-longitudinal + single-transverse‚Äù wave-packet structure is fully generated. Only amplitude magnitudes differ; wave-packet topology does not vary with interaction distance.
 
 5. **Construct-affiliation of Longitudinal and Transverse Waves**
 The dual-string longitudinal waves belong respectively to the ontological body of Sphere A and Sphere B. Each Construct carries one longitudinal wave propagating along its own Yun-flux structure, running in opposite directions (one forward, one backward), forming the dual-string configuration. Transverse waves likewise belong respectively to the two Constructs. The transverse waves of Sphere A and Sphere B tumble alternately and symmetrically about Y=0 to constitute the complete transverse-wave pair.
@@ -99,7 +99,7 @@ Qualitative Proposition-8: While passing through a small hole, one unit may go t
 > Premise: Local-Vibration and Propagation are derivative-ontological realities; the Dual-Relation Descriptor serves only to describe objective Construct-to-Construct dual-interactions.
 
 **Axiom-1: Undetectability of Loss-free Propagation**
-Loss-free pure Propagation cannot be perceived or detected by humans or instruments during spatial travel, regardless of internal Propagation-to-Propagation interactions. Propagation transmission is a continuous flowing process with no steady locked-in landing point. Observable phenomena can only be generated when Propagation arrives at a steady-state receiving-end Construct and completes the state transition **Propagation °˙ Local-Vibration**. The classical statement °∞collision produces perception°± is erroneous. The essence of perception is Construct-to-Construct dual-interaction, not physical collision.
+Loss-free pure Propagation cannot be perceived or detected by humans or instruments during spatial travel, regardless of internal Propagation-to-Propagation interactions. Propagation transmission is a continuous flowing process with no steady locked-in landing point. Observable phenomena can only be generated when Propagation arrives at a steady-state receiving-end Construct and completes the state transition **Propagation ‚Üí Local-Vibration**. The classical statement ‚Äúcollision produces perception‚Äù is erroneous. The essence of perception is Construct-to-Construct dual-interaction, not physical collision.
 
 **Axiom-2: Transmission Constraint for Loss-bearing Propagation**
 All observable Propagation is loss-bearing Propagation with Yun-flux dissipation. Loss means Propagation transfers Yun-flux outward and converts it into Local-Vibration state at the receiving end. Due to continuous Yun-flux dissipation, loss-bearing Propagation has an inherent upper bound for propagation range and cannot achieve infinite-range loss-free transmission.
@@ -111,17 +111,15 @@ All waves, light and effects observed by humans are not products of in-flight en
 Space is reserved for quantitative-solution expansion. Under subsequent approximation conditions of equal-mass and harmonic-interaction, one may solve for quantitative parameters including bi-construct wave-packet amplitude, propagation speed, Yun-flux allocation ratio and loss-attenuation coefficient. This provides numerical support for the coupling equations of the T04 unified descriptive system.
 
 ## V. Core Revision Summary for V2.0 (Complete Demarcation from Old-version Framework)
-1. Overturn former core logic: remove the erroneous premise that °∞collision is the prerequisite for interaction, wave-motion and perception°±, and establish the underlying architecture: **Construct-to-Construct dual-interaction is the essence; collision is merely a special case**.
+1. Overturn former core logic: remove the erroneous premise that ‚Äúcollision is the prerequisite for interaction, wave-motion and perception‚Äù, and establish the underlying architecture: **Construct-to-Construct dual-interaction is the essence; collision is merely a special case**.
 2. Establish the origin of wave phenomena: all Construct-to-Construct interactions spontaneously generate dual-string longitudinal-wave plus transverse-wave packets. dX corresponds to longitudinal momentum-Yun-flux propagation; dY corresponds to transverse Yun-flux oscillation.
 3. Close the ontology of perception: distinguish the perceptible domain from the unobservable domain, and clarify that processes are undetectable while landing-points are observable, defining the observational boundary of the universe.
 4. Lay theoretical groundwork for T04: validate the bidirectional-allocation mechanism of externally-applied Yun-flux, furnishing complete physical-picture support for dynamical equations of the A57 unified descriptive system.
 
 ---
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa °™ Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
-
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ‚Äî Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
 The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Dian-Xue-Shou,Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
-
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ÁÇπÁ©¥Êâã)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / ÊéíÂ±±Êéå)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ÁôæÊôìÁîü)

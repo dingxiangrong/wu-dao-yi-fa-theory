@@ -1,15 +1,15 @@
 
 # A57-T02-01 One-Dimensional Closed-Orbit Two-Unit Mesoscopic Steady-State Rheological Model
 
-Affiliation: A57 General Flux system-£üThought-Experiment Series A57-T02-01
-Logical Sequence: T01-01 ¡ú T02-01 Present Experiment ¡ú T03 Ideal-Collision Thought Experiment
+Affiliation: A57 General Flux system-ï½œThought-Experiment Series A57-T02-01
+Logical Sequence: T01-01 â†’ T02-01 Present Experiment â†’ T03 Ideal-Collision Thought Experiment
 Experiment Positioning: Core validation thought-experiment for the field theory within the A57 system. Using a minimal one-dimensional two-unit closed system to simulate, verify and formalize the ontological rules of the mechanical field. Abolish the classical-physics concept of field-kinetic-energy, establish the dual-variable system of field-transport and field-potential-energy free from reference-frame paradoxes, and complete the axiomatic modeling of mesoscopic rheology.
 System Inheritance: Adopt the A57 symbol system of Structure-Change-Field-Vibration-Propagation; resolve the reference-frame relativity drawback of classical kinetic-energy; construct a system-level, relation-oriented, structure-prior underlying model for mesoscopic rheology.
 Paradigm Statement: The A00 Human-AI Original-Work Establishment Paradigm shall be appended at the end of the full text.
 
 ## Abstract
 
-This paper serves as the core validation thought-experiment for the field theory within  A57 General Flux system. An isolated conservative system consisting of two equal-mass mesoscopic units on a one-dimensional closed rigid orbit is adopted. Macroscopic appearances and complex microscopic components are stripped away to build a minimal prototype model for mesoscopic steady-state rheology. Under ideal constraints of friction-free, dissipation-free and perturbation-free conditions, the sustained interaction of repulsive mechanical field between two units is simulated. The reference-frame-dependent classical definition of kinetic-energy is completely discarded, and two core derived variables, field-transport and field-potential-energy, are defined to resolve the relativity paradox of motion-energy in classical mechanics. This paper strictly defines the three-layer architecture: rheological-structure-S, instantaneous-state-Z, and index marker-¦È. It axiomatically formalizes the relational nature of the mechanical field, and clarifies the sole underlying mechanism of mesoscopic rheology: invariant structure, circulating states, and endogenous inter-conversion of field-quantities. This experiment achieves self-consistency verification for the fundamental rules of A57 field theory, inherits the T01-01 epistemological methodology, and provides solid axiomatic foundation for the T03 model of binary-coupled collision-oscillation and vibration-to-propagation transformation.
+This paper serves as the core validation thought-experiment for the field theory within  A57 General Flux system. An isolated conservative system consisting of two equal-mass mesoscopic units on a one-dimensional closed rigid orbit is adopted. Macroscopic appearances and complex microscopic components are stripped away to build a minimal prototype model for mesoscopic steady-state rheology. Under ideal constraints of friction-free, dissipation-free and perturbation-free conditions, the sustained interaction of repulsive mechanical field between two units is simulated. The reference-frame-dependent classical definition of kinetic-energy is completely discarded, and two core derived variables, field-transport and field-potential-energy, are defined to resolve the relativity paradox of motion-energy in classical mechanics. This paper strictly defines the three-layer architecture: rheological-structure-S, instantaneous-state-Z, and index marker-Î¸. It axiomatically formalizes the relational nature of the mechanical field, and clarifies the sole underlying mechanism of mesoscopic rheology: invariant structure, circulating states, and endogenous inter-conversion of field-quantities. This experiment achieves self-consistency verification for the fundamental rules of A57 field theory, inherits the T01-01 epistemological methodology, and provides solid axiomatic foundation for the T03 model of binary-coupled collision-oscillation and vibration-to-propagation transformation.
 
 **Keywords**: A57 General Flux system; mesoscopic rheology; mechanical field; field-transport; field-potential-energy; structure priority; steady-state rheology; thought-experiment
 
@@ -70,18 +70,18 @@ S contains two components:
 
 Z denotes a certain collective instantaneous state within rheological-structure-S. It does not belong to any single mesoscopic material unit, but represents a phased manifested form of the whole system.
 
-¦È serves as index marker to locate-Z.
+Î¸ serves as index marker to locate-Z.
 
 Internal constituents of-Z: collective distribution of system-wide field-transport, and field-potential-energy of unit-pair dual mechanical-field.
 
 Notes:
 
-1. ¦È functions merely as locating index marker; it is not ontological part of-S or-Z and bears no physical substance.
+1. Î¸ functions merely as locating index marker; it is not ontological part of-S or-Z and bears no physical substance.
 2. Z is an element of-S. Transition rules of-S govern evolutionary jumps and cyclic alternation among different-Z.
 
 ### 2.5 Core Analytical Objects
 
-1. ¦È: Index marker locating corresponding collective instantaneous-state-Z, not participating in ontological definition of rheological-structure-S.
+1. Î¸: Index marker locating corresponding collective instantaneous-state-Z, not participating in ontological definition of rheological-structure-S.
 2. Inside-Z: Field-transport and field-potential-energy couple dynamically and inter-convert, forming the core endogenous driving force for mesoscopic change.
 
 ### 2.6 Model Speculative Remarks
@@ -151,7 +151,7 @@ Within this system, entropy serves as statistical phenomenal metric quantifying 
 
 2. Validate dual-variable system of field-transport / field-potential-energy: Thoroughly resolve reference-frame paradox of classical kinetic-energy. Establish system-level unambiguous measurement standard for mesoscopic field-quantities, realizing field to be model-capable, definable and deducible.
 
-3. Validate three-layer rheological architecture S/Z/¦È: Within minimal two-unit closed-system, confirm core mechanism that invariant structure-S governs instantaneous-state-Z and continuous state circulation. The system is fully self-consistent.
+3. Validate three-layer rheological architecture S/Z/Î¸: Within minimal two-unit closed-system, confirm core mechanism that invariant structure-S governs instantaneous-state-Z and continuous state circulation. The system is fully self-consistent.
 
 4. Validate structure-priority principle: Field-potential-energy is uniquely determined by configuration and independent of instantaneous field-transport. Directly implement core proposition of configuration-ontology-priority from T01-01, realizing unification between epistemology and physical model.
 
@@ -170,7 +170,8 @@ This experiment completes axiomatic validation of field-theory under steady-stat
 ---
 
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa â€” Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
+The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ç‚¹ç©´æ‰‹)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / æŽ’å±±æŽŒ)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ç™¾æ™“ç”Ÿ)

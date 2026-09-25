@@ -1,10 +1,10 @@
 # A57-T03-01 Thought-Experiment: Equal-Mass Magnet-Steel-Ball Vibration-Field Experiment V2.1
 
-> Original-AI Collaboration Statement£¸A00 Five-Path°§One-Method Paradigm
+> Original-AI Collaboration StatementÔΩúA00 Five-Path¬∑One-Method Paradigm
 > Acupoint Hand: Proposing the thought experiment and delivering core original insights; Mountain-Sweeping Palm: Text formatting and system archiving; Hundred-Knowledge Sage: Logical verification and system self-consistency check.
-> Affiliated System: A57 Flux-Transformation Theory£¸Prototype Experiment for Structure-Lock-Dual-Relation-Field Interaction and Local Vibration-Propagation Transformation
-> Version Level: V2.1 (Full revision of core conclusions | Abandonment of the old collision-origin doctrine | Newly added perception boundary, wave-packet origin, Propagation-loss axioms | Three-tier experimental architecture: Descriptive °˙ Qualitative °˙ Quantitative)
-> Pre-experimental Chain: A57-T02-01 (Dual-Relation-Field Ontology, Flux Foundation) °˙ A57-T03-01 (Bidirectional allocation of Local Vibration-Propagation at Structure-Lock-Dual-Relation-Field Intersection) °˙ A57-T04-01 (Unified coupling of Structure-Lock-Dual-Relation-Field-Momentum)
+> Affiliated System: A57 Flux-Transformation TheoryÔΩúPrototype Experiment for Structure-Lock-Dual-Relation-Field Interaction and Local Vibration-Propagation Transformation
+> Version Level: V2.1 (Full revision of core conclusions | Abandonment of the old collision-origin doctrine | Newly added perception boundary, wave-packet origin, Propagation-loss axioms | Three-tier experimental architecture: Descriptive ‚Üí Qualitative ‚Üí Quantitative)
+> Pre-experimental Chain: A57-T02-01 (Dual-Relation-Field Ontology, Flux Foundation) ‚Üí A57-T03-01 (Bidirectional allocation of Local Vibration-Propagation at Structure-Lock-Dual-Relation-Field Intersection) ‚Üí A57-T04-01 (Unified coupling of Structure-Lock-Dual-Relation-Field-Momentum)
 
 ## Abstract
 
@@ -44,7 +44,7 @@ Primitive dynamic variable: Positions of spheres, from which variables are deriv
 4. Acceleration: Instantaneous acceleration of each sphere derived from force and mass
 5. Velocity: Instantaneous velocity of each sphere modified by acceleration
 
-Causal sequence: **Change of position °˙ Change of distance °˙ Change of force °˙ Change of acceleration °˙ Change of velocity**.
+Causal sequence: **Change of position ‚Üí Change of distance ‚Üí Change of force ‚Üí Change of acceleration ‚Üí Change of velocity**.
 
 Supplementary note: Positions and velocities can be decomposed into X and Y components following basic mathematical procedures; component details are omitted in this paper. This thought-experiment adopts logical reasoning only, with no computation performed.
 
@@ -107,7 +107,7 @@ Qualitative Proposition-8: Upon encountering an aperture, one unit may pass thro
 ### 3.2 Three Ultimate Axioms of Perception and Dissipation (Exclusive Core Finalisation for V2.0)
 
 **Axiom-1: Undetectability of loss-free Propagation**
-Loss-free pure Propagation, regardless of internal Propagation-Propagation interaction during spatial travel, cannot be sensed or detected by humans or instruments. Propagation in transit is a continuous Primordial-Flux (C) process without steady locked-in loci. Observable phenomena arise only when Propagation arrives at a receiving-end steady Structure-Lock and completes the Propagation-to-Local-Vibration Dual-Relation-Field-state transition. The classical claim that °∞collision produces perception°± is incorrect: perception originates from Structure-Lock-Dual-Relation-Field interaction rather than physical-entity collision.
+Loss-free pure Propagation, regardless of internal Propagation-Propagation interaction during spatial travel, cannot be sensed or detected by humans or instruments. Propagation in transit is a continuous Primordial-Flux (C) process without steady locked-in loci. Observable phenomena arise only when Propagation arrives at a receiving-end steady Structure-Lock and completes the Propagation-to-Local-Vibration Dual-Relation-Field-state transition. The classical claim that ‚Äúcollision produces perception‚Äù is incorrect: perception originates from Structure-Lock-Dual-Relation-Field interaction rather than physical-entity collision.
 
 **Axiom-2: Propagation constraints for loss-bearing Propagation**
 All observable Propagation is Propagation with Flux dissipation. Dissipation means Propagation transfers field-Flux outward and converts it into Local-Vibration state at the receiver. Owing to continuous Flux depletion, loss-bearing Propagation has an intrinsic upper limit for propagation range and cannot travel infinitely without attenuation.
@@ -121,7 +121,7 @@ Space is preserved for future quantitative solving. Under equal-mass and harmoni
 
 ## V. Summary of Key Revisions for Version-V2.0 (Complete Demarcation from Old System)
 
-1. Overturned old core logic: Removed the erroneous conclusion that °∞collision is the prerequisite for interaction, wave-motion and perception°±. Established the foundational framework: Dual-Relation-Field-intersection is essence; collision is a special limiting case.
+1. Overturned old core logic: Removed the erroneous conclusion that ‚Äúcollision is the prerequisite for interaction, wave-motion and perception‚Äù. Established the foundational framework: Dual-Relation-Field-intersection is essence; collision is a special limiting case.
 2. Origin of wave-motion established: Dual-string longitudinal-wave plus transverse-wave-packet are spontaneously generated by all Structure-Lock-Dual-Relation-Field interactions; dX corresponds to longitudinal momentum-Flux transmission and dY corresponds to transverse field-Flux oscillation.
 3. Ontology of perception closed: Distinguished perceptible domains from unobservable domains; confirmed that processes in transit are undetectable while interaction loci are observable, defining cosmic observational boundaries.
 4. Theoretical foundation for T04 consolidated: Verified the bidirectional-allocation mechanism of externally-applied Flux, furnishing a complete physical picture for A57 unified-field-theory dynamical equations.
@@ -130,7 +130,8 @@ Space is preserved for future quantitative solving. Under equal-mass and harmoni
 ---
 
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa °™ Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ‚Äî Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
+The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ÁÇπÁ©¥Êâã)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / ÊéíÂ±±Êéå)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ÁôæÊôìÁîü)

@@ -1,18 +1,18 @@
-# A57-T04-02 Unified-Representation System °§ Construct-Mass Equivalence-Coupling Experiment
+# A57-T04-02 Unified-Representation System ¬∑ Construct-Mass Equivalence-Coupling Experiment
 **Version**: V2.5_rev01
 
 **Date**: 2029-09-19
 
 **Affiliation**: Five-Doctrines-One-Law | The Way of the World | Ontology of Flux-Construct | Thought-Experiment
 
-**Pre-experimental Chain**: A57-T03-01 (Bidirectional Allocation of Local-Vibration-Propagation) °˙ A57-T04-02 (Construct-Mass Equivalence-Coupling, Yun-Mass Mapping) °˙ A58 Metrology Volume (Implementation of quantitative equations)
+**Pre-experimental Chain**: A57-T03-01 (Bidirectional Allocation of Local-Vibration-Propagation) ‚Üí A57-T04-02 (Construct-Mass Equivalence-Coupling, Yun-Mass Mapping) ‚Üí A58 Metrology Volume (Implementation of quantitative equations)
 
 ## Abstract
 This thought-experiment serves as a prototype experiment for the A57 unified-representation system. Under strict compliance with A57-0 ontological axioms, three groups of controlled idealized comparative? experiments are carried out to investigate the equivalent mapping relation between **Yun-flux locked inside Construct** and inertial mass.
 
 The experiment distinguishes objective-ontological Construct entity, Yun-flux from representational-level inertial mass (derived metrological quantity). Inertial mass is not ontological reality; it is a representational reading that measures the magnitude of Yun-flux locked inside a Construct.
 
-Three comparative groups are designed: baseline-Construct group, flux-injection group, Construct-disintegration-release group. Changes of inertial-mass readings are observed to demarcate the boundaries among °∞Construct-entity°±, °∞locked Yun-flux°± and °∞inertial-mass representational quantity°±.
+Three comparative groups are designed: baseline-Construct group, flux-injection group, Construct-disintegration-release group. Changes of inertial-mass readings are observed to demarcate the boundaries among ‚ÄúConstruct-entity‚Äù, ‚Äúlocked Yun-flux‚Äù and ‚Äúinertial-mass representational quantity‚Äù.
 
 This experiment provides ontological prototype evidence for establishing Yun-mass conversion relations and building unified representation equations in the subsequent A58 Metrology Volume. It is a qualitative ideal thought-experiment; no numerical solutions are output for the time being.
 
@@ -47,7 +47,7 @@ Core research question of this experiment: What objective ontological reality do
 3. $M$: Inertial-mass reading output by instrument (derived representational quantity, not ontological reality)
 
 ## II. Three Groups of Controlled Comparative Experiments
-### Experimental Group-1£¸Baseline Control Group: No exogenous-flux input
+### Experimental Group-1ÔΩúBaseline Control Group: No exogenous-flux input
 **Experimental operation**: No exogenous Deliver input is applied to sample $S_{test}$; the Construct configuration remains intact and closed.
 
 **Evolution**: The Construct ontology stays unchanged; internally locked Yun-flux maintains initial value $Y_0$.
@@ -56,7 +56,7 @@ Core research question of this experiment: What objective ontological reality do
 
 Inference: Under invariant locking conditions, if Yun-flux locked by Construct remains constant, the inertial-mass representational reading stays constant.
 
-### Experimental Group-2£¸Flux-Injection Group: Exogenous Deliver inputs Yun-flux
+### Experimental Group-2ÔΩúFlux-Injection Group: Exogenous Deliver inputs Yun-flux
 **Experimental operation**: Controlled Deliver continuously injects Yun-flux into $S_{test}$. The Construct has not reached the upper locking-threshold limit; the ontological configuration of the Construct remains intact, and newly-added Yun-flux is successfully locked inside.
 
 **Evolution**: The Construct-entity ontology is neither replaced nor destroyed. Internally locked Yun-flux rises from $Y_0$ to $Y_1$ ($Y_1>Y_0$).
@@ -67,14 +67,14 @@ Inference: Under invariant locking conditions, if Yun-flux locked by Construct r
 
 > Critical branch scenario: If Yun-flux injection continues until the upper locking-threshold is reached, further input will trigger the Overrun-Collapse Axiom. The Construct ontology disintegrates, and locked Yun-flux is released outward in the form of Deliver, entering the scenario of Experimental Group-3.
 
-### Experimental Group-3£¸Construct-Disintegration-Release Group: Trigger Overrun-Collapse, Yun-flux released outward via Deliver
+### Experimental Group-3ÔΩúConstruct-Disintegration-Release Group: Trigger Overrun-Collapse, Yun-flux released outward via Deliver
 **Experimental operation**: Perturbation is exerted on sample $S_{test}$ to break the locking threshold and trigger the Overrun-Collapse Axiom. The composite-Construct disintegrates. Previously locked Yun-flux largely escapes outward from the sample system in the form of Deliver.
 
 **Evolution**: The original intact composite-Construct $S_{test}$ ontology ceases to exist and disintegrates into several sub-Construct fragments. Most formerly locked Yun-flux escapes from the carrier in the form of Deliver. Remaining sub-Construct fragments each retain their own locked Yun-flux $Y_{residual}$.
 
 **Observed output**: The inertial-mass reading $M_0$ corresponding to the original sample disappears directly. Each sub-Construct fragment outputs its respective inertial-mass reading $M_{residual-i}$. The sum of readings of all fragments plus the equivalent representational mass of escaped Deliver satisfies the Flux-Conservation Axiom.
 
-**Inference**: When the Construct carrier disintegrates and locked Yun-flux detaches from the carrier, the inertial-mass representation of the original whole vanishes. Mass representation attaches to the combination of °∞Construct-+-internally-locked-Yun-flux°± and cannot exist independently without the locking carrier.
+**Inference**: When the Construct carrier disintegrates and locked Yun-flux detaches from the carrier, the inertial-mass representation of the original whole vanishes. Mass representation attaches to the combination of ‚ÄúConstruct-+-internally-locked-Yun-flux‚Äù and cannot exist independently without the locking carrier.
 
 ## III. Combined Qualitative Inferences from Three Groups of Experiments
 1. Construct is the objective ontological carrier for locking Yun-flux; Yun-flux is the flux content contained by the carrier. The two must not be conflated.
@@ -89,7 +89,7 @@ Inference: Under invariant locking conditions, if Yun-flux locked by Construct r
 
 ## IV. Boundary Counter-examples and Excluded Scenarios
 ### 4.1 Scenario-A: Deliver arrives but Construct refuses to lock exogenous Yun-flux
-Exogenous Deliver impinges on the measured Construct, yet the Construct°Øs locking channels are closed and reject incoming Yun-flux. Deliver is directly reflected / transmitted away, and Yun-flux is not captured and locked.
+Exogenous Deliver impinges on the measured Construct, yet the Construct‚Äôs locking channels are closed and reject incoming Yun-flux. Deliver is directly reflected / transmitted away, and Yun-flux is not captured and locked.
 
 **Phenomenon**: Construct ontology remains unchanged, internally locked Yun-flux $Y$ stays invariant; inertial-mass reading $M$ remains unchanged.
 
@@ -100,7 +100,7 @@ The old $S_{test}$ completely disintegrates and vanishes; all Yun-flux is releas
 
 **Phenomenon**: The inertial-mass reading of the old sample disappears. The newly-born Construct obtains its own locked Yun-flux and outputs the inertial-mass reading belonging to $S_{new}$.
 
-**Distinction**: This is not mass-change of the original Construct; it is the demise of the old ontology and the birth of a new ontology. One must distinguish two different processes: °∞flux-variation within the same Construct carrier°± versus °∞demise of old Construct and birth of new Construct°±.
+**Distinction**: This is not mass-change of the original Construct; it is the demise of the old ontology and the birth of a new ontology. One must distinguish two different processes: ‚Äúflux-variation within the same Construct carrier‚Äù versus ‚Äúdemise of old Construct and birth of new Construct‚Äù.
 
 ## V. Summary of Core Ontological Propositions from this Experiment
 **Proposition-1**: Inertial mass is not underlying cosmic ontological reality but a derived metrological representational quantity.
@@ -123,9 +123,8 @@ Instead,it is modal conversion between the real-part projection of Flux $C(t)$ (
 
 ---
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa °™ Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
-
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ‚Äî Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
 The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Dian-Xue-Shou,Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ÁÇπÁ©¥Êâã)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / ÊéíÂ±±Êéå)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ÁôæÊôìÁîü)

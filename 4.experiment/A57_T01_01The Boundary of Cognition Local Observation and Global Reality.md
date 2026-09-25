@@ -1,8 +1,8 @@
 # A57-T01-01 The Boundary of Cognition: Local Observation and Global Reality
 
-Affiliation: A57 Theory of General Flux£üThought-Experiment Series A57-T01-01
+Affiliation: A57 Theory of General Fluxï½œThought-Experiment Series A57-T01-01
 
-Logical Sequence: T01-01 (this paper) ¡ú T02-01 One-Dimensional Closed-Track Dual-Unit Mesoscopic Steady-State Rheological Model ¡ú T03 Ideal Collision Thought-Experiment
+Logical Sequence: T01-01 (this paper) â†’ T02-01 One-Dimensional Closed-Track Dual-Unit Mesoscopic Steady-State Rheological Model â†’ T03 Ideal Collision Thought-Experiment
 
 Positioning: The first paper of the full thought-experiment series. Derives fundamental epistemological axioms from physical models, and provides pre-existing cognitive methodology for subsequent physical rheology models T02 and T03.
 
@@ -34,7 +34,7 @@ Given unchanged gravitational field and unchanged sphere, merely modifying chann
 
 2. Highly complex channel: The sphere still obeys identical physical rules, yet its trajectory becomes intricate. Observers can only capture positional and velocity information over a limited interval. Based solely upon such local measurements, it proves difficult to reconstruct the full geometry of the channel, let alone predict complete future states across all positions along the path.
 
-Core Speculation: The complete set of possible motions for the sphere is governed by the full objective reality constituted by channel geometry, gravitational field and sphere mass. Human observers only ever obtain partial temporal snapshots of the sphere¡¯s runtime behaviour.
+Core Speculation: The complete set of possible motions for the sphere is governed by the full objective reality constituted by channel geometry, gravitational field and sphere mass. Human observers only ever obtain partial temporal snapshots of the sphereâ€™s runtime behaviour.
 
 What we perceive constitutes manifest behaviour within a limited domain, not full access to all objective possibilities inherent to the system.
 
@@ -50,7 +50,7 @@ This constitutes the generalized "blind-men-and-elephant" dilemma: complete obje
 
 ### Section 3 Three Core Propositions of Cognition
 
-Note: The three propositions form a closed logical loop: defining nested relations among objective entities ¡ú establishing the primacy of structure over substance ¡ú explaining mental simulation mechanisms of human cognition.
+Note: The three propositions form a closed logical loop: defining nested relations among objective entities â†’ establishing the primacy of structure over substance â†’ explaining mental simulation mechanisms of human cognition.
 
 **Proposition 1 [Local-Fragment Global-Nesting Proposition]**
 Any objective system accessible to human observation and modelling generally represents a partial fragment embedded within a larger global system. Systems can be encapsulated inside higher-order, larger-scale super-systems.
@@ -69,7 +69,8 @@ Objective systems exhibit diverse and distinct configurations. The human mind ca
 ---
 
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa â€” Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
+The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ç‚¹ç©´æ‰‹)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / æŽ’å±±æŽŒ)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ç™¾æ™“ç”Ÿ)

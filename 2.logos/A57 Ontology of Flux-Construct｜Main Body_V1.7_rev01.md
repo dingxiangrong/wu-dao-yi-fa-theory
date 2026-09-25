@@ -12,16 +12,16 @@ This document is a core foundational specification of the A00 Five-Doctrines-One
 
 The system takes Order-Disorder as the first-order pre-concept prior to all realities. All realities are divided into primordial realities and derivative realities. Primordial realities include perpetually flowing Flux (the substrate of all dynamics) and Construct with locking boundaries (the carrier of all ordered structures). The two have no temporal priority and are non-derivative innate underlying substrates of the world. Derivative realities cover four core forms: Local-Vibration, Propagation, Deliver, and Container-Construct. Yun is the exclusive quantifiable characterizing flux of Flux, serving as the core intermediate quantity bridging abstract primordial being and computable physical effects; differentiability applies only in inter-construct transmission processes.
 
-Built upon the five core axioms (Flux-Conservation, Overrun-Collapse, Difference, Primary-Secondary, Nested-Hierarchy Axioms), the system establishes the core constant of Construct-locking threshold and defines the binary critical states of steady existence-collapse-reconstruction for constructs. Based on the dual-primordial ontology and underlying axioms, the complete evolutionary logic of the world is deduced: starting from indecomposable $S_0$ fundamental ordered constructs as primitive substrates, through three fundamental inter-construct interactions (mutual-annihilation, assimilation-absorption, balanced-reciprocal coupling), higher-order composite constructs emerge via nested-hierarchy evolution. Relying on the parallel dual-locking property of special higher-order Container-Constructs, a systemic architecture of °∞independent individual existence + global ordered constraint°± is built, eventually forming the macroscopic world superposition of steady-structure layer and dynamic-evolution layer.
+Built upon the five core axioms (Flux-Conservation, Overrun-Collapse, Difference, Primary-Secondary, Nested-Hierarchy Axioms), the system establishes the core constant of Construct-locking threshold and defines the binary critical states of steady existence-collapse-reconstruction for constructs. Based on the dual-primordial ontology and underlying axioms, the complete evolutionary logic of the world is deduced: starting from indecomposable $S_0$ fundamental ordered constructs as primitive substrates, through three fundamental inter-construct interactions (mutual-annihilation, assimilation-absorption, balanced-reciprocal coupling), higher-order composite constructs emerge via nested-hierarchy evolution. Relying on the parallel dual-locking property of special higher-order Container-Constructs, a systemic architecture of ‚Äúindependent individual existence + global ordered constraint‚Äù is built, eventually forming the macroscopic world superposition of steady-structure layer and dynamic-evolution layer.
 
-On the cognitive-paradigm level, the theory clarifies cognitive limits of humans as autonomous steady-subject-constructs and establishes a quaternary framework of objective interaction relations. It points out that human innate cognition can directly perceive only two modes: °∞Subject-Construct °™ Object-Construct°± and °∞Subject-Construct °™ Deliver°±. All other objective interactions require observation mediated by man-made constructs, defining the innate cognitive boundary from the ontological perspective. On the spatial-domain level, three objective spatial forms are classified by construct stock and Yun-flux-density: Construct-Bearing Spatial-Domain, Construct-Free Flux-Bearing Vacuum-Domain, and Void-Sparse-Flux Domain. Old logical tensions of Void-Sparse-Flux Domain are resolved: it denotes an extremely rarefied domain where flux-density falls below the $S_0$ formation threshold and cannot sustain structural formation, instead of absolute absence of Flux.
+On the cognitive-paradigm level, the theory clarifies cognitive limits of humans as autonomous steady-subject-constructs and establishes a quaternary framework of objective interaction relations. It points out that human innate cognition can directly perceive only two modes: ‚ÄúSubject-Construct ‚Äî Object-Construct‚Äù and ‚ÄúSubject-Construct ‚Äî Deliver‚Äù. All other objective interactions require observation mediated by man-made constructs, defining the innate cognitive boundary from the ontological perspective. On the spatial-domain level, three objective spatial forms are classified by construct stock and Yun-flux-density: Construct-Bearing Spatial-Domain, Construct-Free Flux-Bearing Vacuum-Domain, and Void-Sparse-Flux Domain. Old logical tensions of Void-Sparse-Flux Domain are resolved: it denotes an extremely rarefied domain where flux-density falls below the $S_0$ formation threshold and cannot sustain structural formation, instead of absolute absence of Flux.
 
 The Unified-Field chapter further standardizes the tool-nature of Field. Taking two-body dual-coupling as the core prototype, standardized characterizing-fields are built basing on Container-Constructs and other references. Distinction is drawn between objective spatial-domain substrate and artificially-introduced characterizing dimensions, scales and coordinate systems. The core boundary is clarified: Field merely describes inter-construct interactions and does not generate objective forces. Complemented by the Yn Hierarchical-Flux Model, quantitative complementary expressions are realized for vertical construct-nested-hierarchies and horizontal macroscopic inter-construct interactions.
 
-Special research memoranda on Void-Sparse-Flux Domain are appended at the end, putting forward the core research proposition of °∞Flux-flux evacuation in space°±, establishing flux-budget logic for construct-existence-collapse, and setting dual-track paths for theoretical quantification and long-term experimental verification. It provides pre-theoretical support for quantitative modelling and closed-loop iteration of A58 Metrology Volume. The whole text features self-consistent logic and progressive layers, accomplishing phased upgrading of Flux-Construct Ontology from qualitative framework toward a quantifiable, deducible and verifiable system.
+Special research memoranda on Void-Sparse-Flux Domain are appended at the end, putting forward the core research proposition of ‚ÄúFlux-flux evacuation in space‚Äù, establishing flux-budget logic for construct-existence-collapse, and setting dual-track paths for theoretical quantification and long-term experimental verification. It provides pre-theoretical support for quantitative modelling and closed-loop iteration of A58 Metrology Volume. The whole text features self-consistent logic and progressive layers, accomplishing phased upgrading of Flux-Construct Ontology from qualitative framework toward a quantifiable, deducible and verifiable system.
 
 ## Chapter 1 Primordial Substrates and Underlying Rules
-This chapter constitutes the first-order underlying foundation of the whole system, establishing dual-primordial ontology, construct-primordial-constant constraints and universal core axioms °™ prerequisites for all structures, hierarchies and evolutions.
+This chapter constitutes the first-order underlying foundation of the whole system, establishing dual-primordial ontology, construct-primordial-constant constraints and universal core axioms ‚Äî prerequisites for all structures, hierarchies and evolutions.
 
 ### 1.1 Dual Primordia: Flux-Construct (Core of System)
 The underlying primordia of the world consist of two ontological realities, co-existing and mutually grounding one another; neither precedes nor derives from the other, existing innately as realities.
@@ -49,7 +49,7 @@ Remark: This constant is a universal underlying property for all constructs and 
 ### 1.3 Five Universal Core Axioms
 **Axiom-1: Flux-Conservation Axiom**
 
-Flux cannot be created ex nihilo nor annihilated ex nihilo. Construct-collapse only modifies the constrained form of Flux; total quantity of Flux remains constant. Analogous to conservation-of-matter: Flux is a primordial constant. °∞Unbounded°± means Flux acts without spatial bounds; °∞conservation°± means the primordial quantity of Flux is invariant.
+Flux cannot be created ex nihilo nor annihilated ex nihilo. Construct-collapse only modifies the constrained form of Flux; total quantity of Flux remains constant. Analogous to conservation-of-matter: Flux is a primordial constant. ‚ÄúUnbounded‚Äù means Flux acts without spatial bounds; ‚Äúconservation‚Äù means the primordial quantity of Flux is invariant.
 
 **Axiom-2: Overrun-Collapse Axiom**
 
@@ -68,7 +68,7 @@ Ordered systems inevitably develop primary-secondary differentiation. Without pr
 Constructs possess innate nested-compatibility. Constructs can nest within constructs; structures can enclose structures. Nesting constitutes the sole generative mechanism for all higher-order hierarchies.
 
 ## Chapter 2 World-Formation and Evolution
-Building upon Chapter-1°Øs primordial-Flux-Construct ontology and underlying axioms, this chapter takes construct-system-evolution as its sole core. It fully deduces the complete formative process of the world: from primitive substrate-constructs, inter-construct interactions, structural coupling-nesting up to the formation of global macroscopic systems.
+Building upon Chapter-1‚Äôs primordial-Flux-Construct ontology and underlying axioms, this chapter takes construct-system-evolution as its sole core. It fully deduces the complete formative process of the world: from primitive substrate-constructs, inter-construct interactions, structural coupling-nesting up to the formation of global macroscopic systems.
 
 Flux may reside in disordered chaotic configuration: all Flux follows no unified rules, acts independently, possesses no fixed locked-in structures and no stable local configurations; Flux exists in free-diffusive state. $S_0$, local ordered constructs, emerge as ordered forms against this chaotic background.
 
@@ -82,7 +82,7 @@ Spin-locking is a special case of this configuration and does not define the ess
 
 **Paradigm Note**:
 
-$S_0$ denotes only the structural form °∞multiple portions of Flux obeying identical rules°±, without specifying concrete rule-content; different independent instances can be generated:
+$S_0$ denotes only the structural form ‚Äúmultiple portions of Flux obeying identical rules‚Äù, without specifying concrete rule-content; different independent instances can be generated:
 - $S_0$A: fundamental ordered-construct obeying Rule-A
 - $S_0$B: fundamental ordered-construct obeying Rule-B
 
@@ -114,7 +114,7 @@ Two constructs of unequal potential: the stronger construct constrains the weake
 Constructs of compatible comparable potential do not destroy or absorb each other and establish long-term balanced relations. This constitutes the core pathway for higher-order world-formation and divides into two evolutionary modes.
 
 **Mode-1: Persistent Binding-Coupling (generates higher-order composite-constructs)**
-Multiple independent constructs bind persistently, fuse structurally and unify their rules. Following Nested-Hierarchy Axiom, complex-structure sequences are generated step-by-step: fundamental-construct °˙ two-body composite-construct °˙ multi-body higher-order-construct.
+Multiple independent constructs bind persistently, fuse structurally and unify their rules. Following Nested-Hierarchy Axiom, complex-structure sequences are generated step-by-step: fundamental-construct ‚Üí two-body composite-construct ‚Üí multi-body higher-order-construct.
 Inevitable evolutionary feature: multi-construct fusion necessarily produces differentiation of primary-secondary relations and hierarchies, forming stable check-and-balance structures. Without primary-secondary relations and hierarchies, higher-order-constructs cannot sustain steady existence.
 
 **Mode-2: Transient-Non-Binding Interaction (generates dynamic background substrate)**
@@ -177,35 +177,35 @@ Subject-Construct and Object-Construct both belong to Construct yet possess clea
 ### 3.2 Four Categories of Objective Interaction Relations
 Taking Subject-Construct, Object-Construct and objective Deliver as elementary units, all objective interaction relations in the world strictly fall into four categories, covering all subject-object interactions and dynamic forms.
 
-#### 3.2.1 Subject-Construct °™ Object-Construct
+#### 3.2.1 Subject-Construct ‚Äî Object-Construct
 Subject-Construct occupies cognitive dominant position; Object-Construct occupies observed subordinate position. Subject-Construct perceives, benchmarks, matches and cognizes all steady-structured Object-Constructs in external world. It corresponds to human cognition of structural, existential and ordered ontological properties of world-beings.
 
-#### 3.2.2 Subject-Construct °™ Deliver
+#### 3.2.2 Subject-Construct ‚Äî Deliver
 Subject-Construct occupies cognitive dominant position; Deliver as flux-transmission-state occupies subordinate position. Subject-Construct receives, perceives and measures Deliver out-flowing from ordered-operation of external Object-Constructs. It corresponds to human cognition of dynamic, dissipative and transmissive aspects of Flux in world-beings.
 
-#### 3.2.3 Deliver °™ Object-Construct
-Objectively Deliver may actively act upon, modify and reshape Object-Construct; this constitutes independent objective-interaction-relation. Nevertheless Subject-Construct cannot directly perceive it and cannot generate innate cognition. To extract information from this law, man-made-construct intermediary interaction must be invoked to generate secondary-Deliver fed back toward subject; finally it converges back to perceptual pathway °∞Subject-Construct °™ Deliver°±.
+#### 3.2.3 Deliver ‚Äî Object-Construct
+Objectively Deliver may actively act upon, modify and reshape Object-Construct; this constitutes independent objective-interaction-relation. Nevertheless Subject-Construct cannot directly perceive it and cannot generate innate cognition. To extract information from this law, man-made-construct intermediary interaction must be invoked to generate secondary-Deliver fed back toward subject; finally it converges back to perceptual pathway ‚ÄúSubject-Construct ‚Äî Deliver‚Äù.
 
-#### 3.2.4 Deliver °™ Deliver
-Objectively Deliver can couple, superpose, counter-balance and resonate with other Deliver-entities; this constitutes independent objective-interaction-relation. This relation likewise cannot be directly perceived by Subject-Construct. To extract information, man-made-construct intermediate detection must be invoked; secondary-Deliver generated from interaction feeds-back and finally converges to perceptual mode °∞Subject-Construct °™ Deliver°±.
+#### 3.2.4 Deliver ‚Äî Deliver
+Objectively Deliver can couple, superpose, counter-balance and resonate with other Deliver-entities; this constitutes independent objective-interaction-relation. This relation likewise cannot be directly perceived by Subject-Construct. To extract information, man-made-construct intermediate detection must be invoked; secondary-Deliver generated from interaction feeds-back and finally converges to perceptual mode ‚ÄúSubject-Construct ‚Äî Deliver‚Äù.
 
 ### 3.3 Ontological Limitations of Innate Human Cognition
 As autonomous steady-Subject-Construct, human beings generate Deliver spontaneously from ordered internal Flux-operation. Once Deliver flows outward and departs Subject-Construct-ontology, it no longer belongs to subject-being. Simple outward emission of Deliver without return-flow, feedback or closed-loop cannot produce cognitive perception.
 
-Hence human innate cognition possesses only two direct, innate perceptual pathways: °∞Subject-Construct °™ Object-Construct°± and °∞Subject-Construct °™ Deliver°±.
+Hence human innate cognition possesses only two direct, innate perceptual pathways: ‚ÄúSubject-Construct ‚Äî Object-Construct‚Äù and ‚ÄúSubject-Construct ‚Äî Deliver‚Äù.
 
 Modern science-and-technology artificially build complete interaction-circuits via man-made-devices (man-made-Object-Constructs): devices actively emit Deliver acting upon external Object-Construct or external Deliver; interaction generates secondary-Deliver reflected back toward detector and further transmits into human Subject-Construct for cognition.
 
-Science-and-technology furnishes extrinsic acquired compensation. It does not alter the underlying ontological property °∞human being is Subject-Construct and cannot self-generate self-returning Deliver°±. Compensation has inherent boundaries and limitations and cannot achieve universal breakthrough.
+Science-and-technology furnishes extrinsic acquired compensation. It does not alter the underlying ontological property ‚Äúhuman being is Subject-Construct and cannot self-generate self-returning Deliver‚Äù. Compensation has inherent boundaries and limitations and cannot achieve universal breakthrough.
 
 ### 3.4 Core Conclusion of Cognitive-Paradigm
-Human cognitive-system is rooted in human-being°Øs ontology as Subject-Construct.
+Human cognitive-system is rooted in human-being‚Äôs ontology as Subject-Construct.
 
 Subject-Construct-Object-Construct, Subject-Construct-Deliver, Deliver-Object-Construct, Deliver-Deliver constitute complete set of four objective-interaction-relations; no fifth possibility exists.
 
 Innate human beings can directly perceive only first-two categories. The latter two are purely objective-interaction-relations inaccessible to direct human perception and must employ man-made-construct as intermediary tools; all finally converge to perceptual-mode of Subject-Construct receiving Deliver.
 
-All innate human cognition and direct perception strictly fall within dual direct-paradigm: °∞Subject-Construct-Object-Construct, Subject-Construct-Deliver°±.
+All innate human cognition and direct perception strictly fall within dual direct-paradigm: ‚ÄúSubject-Construct-Object-Construct, Subject-Construct-Deliver‚Äù.
 
 ## Chapter 4 Spatial-Domains
 ### 4.1 Division of Objective Spatial-Domains
@@ -236,7 +236,7 @@ Construct-density =-0; no tangible ordered-constructs exist. Primordial Flux (C)
 > Above three models are derived from human cognition-deduction. Spatial-domain-in-itself merely possesses objective extension; it contains no innate distance-scale and does not possess curvature-property. The intrinsic nature of objective spatial-domain cannot be directly intuitively imagined by human mind.
 
 ### 4.2 Boundary Distinction: Objective Spatial-Domain vs Cognition-Space
-Objective reality is Spatial-Domain. The °∞space°± perceived and comprehended in human mind is cognitive-representation generated by Subject-Construct based upon objective Spatial-Domain; the two shall not be conflated.
+Objective reality is Spatial-Domain. The ‚Äúspace‚Äù perceived and comprehended in human mind is cognitive-representation generated by Subject-Construct based upon objective Spatial-Domain; the two shall not be conflated.
 
 Objective Spatial-Domain possesses no built-in measuring-scales, no innately readable distance-calibrations and no innate time-calibrations.
 
@@ -250,7 +250,7 @@ Subject-Construct synthesizes diverse perceptual-information and through interna
 
 Differences among observational outputs may originate from modulation exerted by spatial-domain-environment upon Flux, Deliver, Propagation and intrinsic rhythm of observing-construct-itself, rather than deformation intrinsic to Spatial-Domain-in-itself.
 
-°∞Space-curvature°± derived from various-models is output of cognitive-modelling and is not intrinsic-property belonging to objective Spatial-Domain-in-itself.
+‚ÄúSpace-curvature‚Äù derived from various-models is output of cognitive-modelling and is not intrinsic-property belonging to objective Spatial-Domain-in-itself.
 
 ### 4.3 Chapter Summary
 Based upon preceding cognitive-mechanisms this chapter deduces three categories of objective spatial-domains and draws demarcation-line between objective-spatial-domain-in-itself and cognitive-representation-of-space generated by human-mind. All spatial-domains human-beings can discuss are always models filtered through cognition.
@@ -328,7 +328,7 @@ Hierarchical distinction:
 ### 5.3 Prototype-and-Standard-Field Relationship
 **Objective facts**: Constructs reside in Spatial-Domain and generate large-scale pairwise dual-interactions, forming multiple groups of inter-construct-transform-relations and dual-locking-states, producing Local-Vibration-Propagation-Deliver as well as their transformations.
 
-**Characterization workflow**: Rely on Spatial-Domain °˙ use Field to describe inter-construct-transform-relations and dual-locking-states °˙ construct Standard-Field, set spatial-dimension and various characterizing-dimensions, assign corresponding scales for each dimension, generate coordinates so as to realize standardized calculation for macroscopic-domain.
+**Characterization workflow**: Rely on Spatial-Domain ‚Üí use Field to describe inter-construct-transform-relations and dual-locking-states ‚Üí construct Standard-Field, set spatial-dimension and various characterizing-dimensions, assign corresponding scales for each dimension, generate coordinates so as to realize standardized calculation for macroscopic-domain.
 
 **The sequence cannot be reversed**: It is not Standard-Field that produces inter-construct-transform-relations and dual-locking-states. Objective interactions come first; Standard-Field is only a descriptive tool.
 
@@ -347,7 +347,7 @@ The two cooperate with each other to complete the formalized expression of inter
 3. Dimension is a general concept. Space is one special-type dimension treated separately; others are characterizing-dimensions. Each dimension has its own supporting scale; coordinates are generated on the basis of dimension-scale system. Dimensions, scales and coordinates are all characterizing-tools rather than objective-ontological-properties.
 4. Standard-Field and Hierarchical-Flux Model complement each other, handling horizontal macroscopic-domain and vertical construct-nesting-hierarchy issues respectively. The locking critical threshold of constructs is the underlying prerequisite for the existence of all inter-construct-transform-relations and dual-locking-states.
 
-## Appendix Memorandum£¸Yn Hierarchical-Flux Complete Model System
+## Appendix MemorandumÔΩúYn Hierarchical-Flux Complete Model System
 Temporary memorandum: To be formally expanded in A58 Metrology Volume, this version shall not serve as final axiomatic component of A57.
 
 ### I. Model Premise and Field-Definition
@@ -375,33 +375,33 @@ Recursion formula (k=2): recursively compute higher-order locking-flux level-by-
 ### IV. Core Physical Interpretation of the Model
 1. The primordial threshold is the sole hard upper-limit of cosmic field-system. Thresholds for all higher-order couplings are constrained within base-field limits; no hierarchy can break through the primordial-field limit.
 2. Yn is the total locking-flux of a hierarchy. Yn includes inherent flux of all lower-level sub-constructs plus coupling-locking-flux at current level. Total flux of higher-order-constructs grows exponentially, yet coupling-strength of each single-bond never exceeds primordial threshold.
-3. Explaining °∞weak bonds in large constructs, extreme strength in small constructs°±: collapse of macroscopic-structures, molecular-bonds and field-boundaries only destroys current-level components; underlying primordial-locking remains intact and indestructible. Therefore higher-order-fields appear huge yet fragile, while underlying primordial-field remains constant and imperishable.
+3. Explaining ‚Äúweak bonds in large constructs, extreme strength in small constructs‚Äù: collapse of macroscopic-structures, molecular-bonds and field-boundaries only destroys current-level components; underlying primordial-locking remains intact and indestructible. Therefore higher-order-fields appear huge yet fragile, while underlying primordial-field remains constant and imperishable.
 
-## Appendix Memorandum£¸Void-Sparse-Flux-Domain Research Memorandum
-**Position statement**: This memorandum does not belong to official axiomatic components of A57. It is only extended speculative document and research clue repository for the core concept of Void-Sparse-Flux-Domain. No final assertion is made for the existence of Void-Sparse-Flux-Domain, strictly following the cognitive-modesty standpoint of Chapter-5 in A57. All contents are open-ended deductions instead of established propositions, pending quantitative modelling and formal closed-loop definition in A58 Metrology Volume and subsequent special chapters. Archiving attributes are consistent with °∞speculative remark (non-axiomatic)°± inside A57.
+## Appendix MemorandumÔΩúVoid-Sparse-Flux-Domain Research Memorandum
+**Position statement**: This memorandum does not belong to official axiomatic components of A57. It is only extended speculative document and research clue repository for the core concept of Void-Sparse-Flux-Domain. No final assertion is made for the existence of Void-Sparse-Flux-Domain, strictly following the cognitive-modesty standpoint of Chapter-5 in A57. All contents are open-ended deductions instead of established propositions, pending quantitative modelling and formal closed-loop definition in A58 Metrology Volume and subsequent special chapters. Archiving attributes are consistent with ‚Äúspeculative remark (non-axiomatic)‚Äù inside A57.
 
 ### I. Position Statement and Concept Revision (Resolving System-Internal Tension)
 #### 1.1 Former System-Internal Tension
-Older versions defined Void-Sparse-Flux-Domain as °∞no-construct no-flux°±. However core proposition of A57 makes it clear that primordial Flux (C) exists everywhere eternally. Logical tension arises: if Flux is an eternal underlying property everywhere in the universe, theoretically there exists no spatial-domain where Flux drops to absolute zero.
+Older versions defined Void-Sparse-Flux-Domain as ‚Äúno-construct no-flux‚Äù. However core proposition of A57 makes it clear that primordial Flux (C) exists everywhere eternally. Logical tension arises: if Flux is an eternal underlying property everywhere in the universe, theoretically there exists no spatial-domain where Flux drops to absolute zero.
 
 #### 1.2 Restatement of Concept (Memorandum Revision Proposal)
 Void-Sparse-Flux-Domain does not mean primordial Flux (C) vanishes within the domain. Instead:
 
 Within the domain, flux-density of primordial Flux (C) drops below the $S_0$ formation-threshold (lower-bound critical threshold). Flux-density becomes extremely rarefied and cannot support locking-in, formation and steady-state persistence of any construct.
 
-Core analogy: Similar to gas which cannot be liquefied when density falls below critical value °™ it is not that the medium disappears completely, but density parameters fail to satisfy preconditions for morphological formation.
+**Core analogy**: Similar to gas which cannot be liquefied when density falls below critical valueÔºå it is not that the medium disappears completely, but density parameters fail to satisfy preconditions for morphological formation.
 
 #### 1.3 Final Position
 No definitive assertion on the existence of Void-Sparse-Flux-Domain. It is merely the optimal speculative hypothesis for system self-consistency, excluded from axiom-system, open for future verification, falsification or revision.
 
-### II. Formal Definition of °∞Evacuation°± Operation (Core Research Proposition)
+### II. Formal Definition of ‚ÄúEvacuation‚Äù Operation (Core Research Proposition)
 Core question derived: Can human-intervention artificially evacuate a local spatial-domain, bringing its internal flux-density below formation-threshold so as to realize controlled rarefaction-
 
 #### 2.1 Formal Expression
 For any independent local spatial-domain D, artificially build a net-outflow mechanism for Flux-flux, continuously decay the internal flux-density until it falls below $S_0$ formation-threshold.
 
 #### 2.2 Underlying Essence
-The °∞evacuation°± operation is essentially a problem of Flux-flux budget balance. It is isomorphic with ecological energy budget and thermodynamic entropy budget, an extension of general-system-budget paradigm onto the underlying layer of spatial-domain.
+The ‚Äúevacuation‚Äù operation is essentially a problem of Flux-flux budget balance. It is isomorphic with ecological energy budget and thermodynamic entropy budget, an extension of general-system-budget paradigm onto the underlying layer of spatial-domain.
 
 #### 2.3 Construct Persistence / Collapse Judgment Logic (Pending Quantitative Realization in A58)
 For any steady-state construct inside the domain, double-layer budget-logic is defined:
@@ -409,10 +409,10 @@ For any steady-state construct inside the domain, double-layer budget-logic is d
 - Output term: inherent loss-outflow generated by ordered internal operation of construct
 
 **Judgement logic for collapse**:
-- Steady-state persistence condition: Input °› Output, internal Flux stock of domain can sustain construct-locking and formation
+- Steady-state persistence condition: Input ‚â• Output, internal Flux stock of domain can sustain construct-locking and formation
 - Overrun-collapse condition: Input < Output, internal flux-density of domain monotonically decays, falls below critical locking-threshold, construct completely disintegrates and spatial-domain turns rarefied.
 
-To sum up: Evacuation operation = artificially, persistently and controllably building a negative-budget system of °∞Flux-flux Input < Output°±.
+To sum up: Evacuation operation = artificially, persistently and controllably building a negative-budget system of ‚ÄúFlux-flux Input < Output‚Äù.
 
 ### III. Dual-Track Research Implementation Path (Theory + Long-Term Experiment)
 **Path-I: Theoretical Deduction (Managed under A58 Metrology Volume)**
@@ -426,12 +426,12 @@ To sum up: Evacuation operation = artificially, persistently and controllably bu
 
 **Core goal**: Verify effectiveness of Overrun-Collapse Axiom under extreme boundary-conditions
 
-Artificially build local spatial-domain net-outflow-field of Flux-flux, observe whether structures within domain reproduce hypothesized features of °∞singularity-like expansion, disintegration and explosion°±, so as to experimentally verify collapse-law under extreme low-density boundary-conditions.
+Artificially build local spatial-domain net-outflow-field of Flux-flux, observe whether structures within domain reproduce hypothesized features of ‚Äúsingularity-like expansion, disintegration and explosion‚Äù, so as to experimentally verify collapse-law under extreme low-density boundary-conditions.
 
 ### IV. System Compatibility Mapping with Existing A57 System (Feasibility Support)
-The °∞active evacuation°± speculation is not ground-less; its feasibility can be extrapolated from existing mechanisms inside A57 with full system-self-consistency.
+The ‚Äúactive evacuation‚Äù speculation is not ground-less; its feasibility can be extrapolated from existing mechanisms inside A57 with full system-self-consistency.
 
-The core effect of Container-Construct°Øs dual-locking-relations with independent-constructs is to structurally reshape local flux-environment: Container-Construct can constrain, screen and repel specific Yun-flux modes through multiple sets of parallel dual-locking-relations, fundamentally reshaping local spatial-domain flux-density-distribution patterns.
+The core effect of Container-Construct‚Äôs dual-locking-relations with independent-constructs is to structurally reshape local flux-environment: Container-Construct can constrain, screen and repel specific Yun-flux modes through multiple sets of parallel dual-locking-relations, fundamentally reshaping local spatial-domain flux-density-distribution patterns.
 
 This mechanism is isomorphic with the Casimir-effect: restructuring boundary-constraints to force changes of fundamental-parameter-distribution inside local-field-domain.
 
@@ -446,9 +446,8 @@ Final positioning: This memorandum serves as pre-research clue paving-stone for 
 
 ---
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa °™ Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
-
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ‚Äî Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
 The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Dian-Xue-Shou,Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ÁÇπÁ©¥Êâã)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / ÊéíÂ±±Êéå)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ÁôæÊôìÁîü)

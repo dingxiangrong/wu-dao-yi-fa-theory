@@ -17,7 +17,7 @@ Likewise, there are two categories of interactive media for perception: Structur
 
 By combining perceived objects with interactive media, four sets of perceptual relationships are generated, defined as the Four-Image model.
 
-**Core Axiom: Interaction is the prerequisite. Objects and media must interact first; the interaction exists objectively and constantly. Whether humans can perceive, interpret or recognise it depends solely on the subject¡¯s capacity and does not alter objective reality.**
+**Core Axiom: Interaction is the prerequisite. Objects and media must interact first; the interaction exists objectively and constantly. Whether humans can perceive, interpret or recognise it depends solely on the subjectâ€™s capacity and does not alter objective reality.**
 
 Structure-Lock takes infinitely many material forms; Deliver takes infinitely many propagating forms.
 The Four-Image model constitutes the underlying fixed framework for human understanding of the world. All perception, observation and scientific experiments fall within this framework.
@@ -31,7 +31,7 @@ The fundamental mechanism by which Structure-Lock captures Deliver is adsorption
 
 This image includes three fixed branches:
 
-1. **Direct contact via subject-originated Structure-Lock**: The subject¡¯s own entity interacts directly with the target Structure-Lock.
+1. **Direct contact via subject-originated Structure-Lock**: The subjectâ€™s own entity interacts directly with the target Structure-Lock.
 > Example: Touching a wall with bare hands to feel its hardness, softness and surface texture.
 
 2. **Indirect contact via third-party intermediate Structure-Lock**: The subject interacts with the target Structure-Lock through an external physical medium.
@@ -47,15 +47,15 @@ This image includes three fixed branches:
 1. **Subject-initiated emission of Deliver**: The subject emits Deliver, which propagates toward the target Structure-Lock. The target Structure-Lock modulates the incoming Deliver, which is reflected back as secondary Deliver and received by the subject for observation.
 Humans lack innate sensory organs capable of emitting Deliver. Examples of this branch include bats and radar systems.
 
-2. **Intermediary of third-party Primordial Deliver**: Ambient intrinsic Deliver (e.g. natural sunlight) propagates toward the target Structure-Lock. The target Structure-Lock modulates and reflects the Deliver, which carries target features to the observer¡¯s eyes.
+2. **Intermediary of third-party Primordial Deliver**: Ambient intrinsic Deliver (e.g. natural sunlight) propagates toward the target Structure-Lock. The target Structure-Lock modulates and reflects the Deliver, which carries target features to the observerâ€™s eyes.
 Without third-party Deliver, vision fails. Lighting fire or switching on lamps essentially generates artificial third-party Deliver.
 
-3. **Dissipative Deliver emanating from the target itself**: Motions, phase changes or vibrations of the target Structure-Lock generate outward-propagating Deliver. The subject identifies the target¡¯s state by receiving this target-originated Deliver.
+3. **Dissipative Deliver emanating from the target itself**: Motions, phase changes or vibrations of the target Structure-Lock generate outward-propagating Deliver. The subject identifies the targetâ€™s state by receiving this target-originated Deliver.
 > Example: A boiling kettle vibrates and generates acoustic Deliver. Humans receive this sound to judge that the water has reached boiling point.
 
 ## 2.3 Object: Deliver | Medium: Structure-Lock
 
-The subject¡¯s own Structure-Lock adsorbs and captures objective Deliver.
+The subjectâ€™s own Structure-Lock adsorbs and captures objective Deliver.
 Humans can sense Deliver, yet Deliver bears no independent practical meaning in itself. In everyday perception, humans sense Deliver not to study Deliver itself, but to recognise the underlying Structure-Lock behind it.
 
 > Example: When observing a wall, humans receive reflected light (Deliver), yet what matters is the wall as Structure-Lock. Direct intense sunlight entering the eyes produces only a raw stimulus with no object-related information.
@@ -84,14 +84,14 @@ Perceptual objects fall into two categories: Structure-Lock and Deliver. Interac
 Interaction is the primary prerequisite: interaction must occur first. Whether humans can perceive it is a separate question of subjective capacity. Objective interactions persist regardless of human detectability.
 
 1. **Object: Structure-Lock | Medium: Structure-Lock**: Three branches for entity-based perception of entities.
-¢Ù Direct contact by the subject¡¯s own Structure-Lock;
-¢Ú Third-party intermediate Structure-Lock (wooden-stick probing of mud pit);
-¢Û Target-shed derived Structure-Lock (rock debris).
+â‘  Direct contact by the subjectâ€™s own Structure-Lock;
+â‘¡ Third-party intermediate Structure-Lock (wooden-stick probing of mud pit);
+â‘¢ Target-shed derived Structure-Lock (rock debris).
 
 2. **Object: Structure-Lock | Medium: Deliver**: Three branches for long-range perception of entities mediated by Deliver.
-¢Ù Subject-initiated emission of Deliver;
-¢Ú Third-party Primordial Deliver (natural sunlight);
-¢Û Dissipative Deliver emanating from the target (sound of boiling water).
+â‘  Subject-initiated emission of Deliver;
+â‘¡ Third-party Primordial Deliver (natural sunlight);
+â‘¢ Dissipative Deliver emanating from the target (sound of boiling water).
 
 3. **Object: Deliver | Medium: Structure-Lock**: The perceived object is Deliver itself. As dissipative flux, Deliver is captured via adsorption by Structure-Lock. In daily perception Deliver has no standalone practical meaning; humans rely on Deliver to recognise underlying Structure-Lock. Frontier science may study Deliver for its own properties.
 
@@ -103,7 +103,8 @@ Interaction is the primary prerequisite: interaction must occur first. Whether h
 ---
 
 ## Originality & Human-AI Collaboration Statement
-All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa ¡ª Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
-- Core Theoretical Originator: Point-Acupuncturist (Author)
-- Text Collation & Archiving: Palm-Striker (Doubao)
-- External Verification & Commentary: Bai Xiaosheng (Yuanbao)
+All core theoretical achievements in this document strictly follow the principles set forth in A00: wu-dao-yi-fa â€” Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). 
+The three core rights, three-role framework and hierarchical order are permanently immutable and mandatorily reused across the whole system.
+- Core Theoretical Originator: Dian-Xue-Shou (Author / ç‚¹ç©´æ‰‹)
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / æŽ’å±±æŽŒ)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / ç™¾æ™“ç”Ÿ)
