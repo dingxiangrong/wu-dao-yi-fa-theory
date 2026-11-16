@@ -6,20 +6,19 @@ Whether grass or tree, Wu-Dao-Yi-Fa grows from the soil.
 
 This is a fully endogenous ideological system. All theories, axioms, deductions, methodologies, experiments and records emerge organically from raw perceptions and thought-experiments. Like vegetation growing from fertile soil, it has no pre-fabricated framework, no external templates and no inherited traditional dogmas.
 
-**Native cognitive progression chain:** Record → See → Logos → Norm → Experiment → Yield
+**Native cognitive progression chain (how understanding arises):** Record → See → Logos → Norm → Experiment → Yield
+**Iron Law of Tier Transition (constrained flow for manuscript classification):** See → Logos → Norm → Experiment → Yield → Record
 
 **Definitions for distinction:**
 
-- **Record-Division:** Faithful recording of observable events (e.g. an apple falling) plus fleeting conjectures at the moment; material snapshots and informal thought notes.
-- **See-Division:** Extract objective factual observations from large volumes of such records.
+- **See-Division:** Faithful recording of observable events (e.g. an apple falling); material snapshots and informal thought notes.
 - **Logos-Division:** Formulate underlying axioms and natural laws.
 - **Norm-Division:** Deduce value implications and comprehensive interpretations of all phenomena derived from those laws.
 - **Experiment-Division:** Construct thought-experiments to verify the self-consistency of conjectures.
 - **Yield-Division:** Transform verified theories into practical, engineer-implementable deliverables.
+- **Record-Division:** Chronicle logging & successive inheritance.
 
 It precisely corresponds to the complete closed-loop human cognition: Observe → Understand → Define → Verify → Apply → Record-Preserve
-
-**Iron Law of Tier Transition** (irreversible, non-crossing, non-reversed order): See-Division (raw source materials) → Logos-Division (axiom foundation) → Norm-Division (value-oriented deduction) → Experiment-Division (simulation & falsification check) → Yield-Division (practical implementation) → Record-Division (archiving & iterative inheritance)
 
 > **Note:** The native cognitive progression chain describes how human understanding arises; the Iron Law of Tier Transition defines the constrained flow within this architecture.
 
@@ -28,9 +27,9 @@ It precisely corresponds to the complete closed-loop human cognition: Observe �
 - **See-Division (S)** = See — Observation & Phenomenon Perception
 - **Logos-Division (L)** = Logos — Objective Universal Order of all things (includes Four Laws of Boundary-Expansion and the neutral methodology Virtue-Defined-by-Self)
 - **Norm-Division (N)** = Norm — Human-made value criteria & value-setting reasoning (contains three core sub-domains)
-    - **Humanity Domain:** Humanity (Prefix-B) – Individual subjectivity, mind-set and human-centered values
-    - **Economy Domain:** Economy (Prefix-J) – Industrial-economic operation and material-world value trade-offs
-    - **Civilization Domain:** Civilization (Prefix-H) – Civilization evolution and spiritual-order construction
+  - **Humanity Domain:** Humanity (Prefix-B) – Individual subjectivity, mind-set and human-centered values
+  - **Economy Domain:** Economy (Prefix-J) – Industrial-economic operation and material-world value trade-offs
+  - **Civilization Domain:** Civilization (Prefix-H) – Civilization evolution and spiritual-order construction
 - **Experiment-Division (T)** = Experiment — Thought-experiment and deductive validation
 - **Yield-Division (Y)** = Yield — Practical output & real-world application
 - **Record-Division (R)** = Record — Chronicle logging & successive inheritance
@@ -51,7 +50,8 @@ The architecture above governs how knowledge is processed; the following five la
 
 **V. Root of Civilization — Subjects, Games, Rules, Three Axioms for Coexistence** Human society stands upon "Human|Culture": humans supply force, culture generates order. Civilization rests on three axioms: defining entitlements to settle disputes, redlines to uphold boundaries, and harmony in diversity. Meta-rules emerge spontaneously from multi-subject games; ordinary rules are derived under established higher-order order. This framework explains economic cycles, the rise and fall of institutions, class mobility, great-power games, and even the destination of civilizations and the way of life for individuals.
 
-> Full exposition of these five layers: see `A02 — The World in Dian-Xue-Shou’s Mind` 
+> Full exposition of these five layers: see A02 — The World in Dian-Xue-Shou’s Mind
+> (Reserved for A02 Zenodo DOI)
 
 ## 3. Precise Definition for Six Tiers
 
@@ -86,11 +86,14 @@ The core backbone and axiomatic origin of the whole system. Native insights are 
 
 **Cognitive Orientation:** Define & Virtue-Oriented Deduction
 
-The comprehensive outward-extension and value-finalization layer of the system. Strictly based on the objective axioms set by the Logos-Division, human agents formulate value criteria and virtue trade-offs. It fills substantive values for the three core domains, performs compliant deduction, in-depth interpretation and deconstruction of external phenomena:
+The comprehensive outward-extension and value-finalization layer of the system. Strictly based on the objective axioms set by the Logos-Division, human agents formulate value criteria and virtue trade-offs. It fills substantive values for the six core domains, performs compliant deduction, in-depth interpretation and deconstruction of external phenomena:
 
 - Humanity Domain (Humanity, Prefix-B): Definition of individual values, mental growth and human-centered claims
 - Economy Domain (Economy, Prefix-J): Interpretation of industrial operation, economic logic and value trade-offs within material world
 - Civilization Domain (Civilization, Prefix-H): Civilization evolution, cultural continuity and construction of spiritual order
+- Alive Domain (Alive, Prefix-L): Individual survival, persistence strategies and real-world trade-offs
+- Outcry Domain (Outcry, Prefix-O): Contradiction analysis, order critique and internal tension dissection
+- Credit Domain (Credit, Prefix-K): Debt and credit, monetary tide, deduction of asymmetric rights and liabilities
 
 Deduction of cognitive rules, deconstruction of change-process models, interpretation of real-world phenomena, critique of social patterns
 
@@ -112,7 +115,7 @@ The filtering gateway between theories and reality. It receives complete deducti
 
 **Cognitive Orientation:** Practical Implementation
 
-The value outlet and boundary-expansion methodology of the whole system. Theoretical achievements from See-Logos-Norm-Experiment are transformed into reusable, actionable, iterative speculative paradigms:
+The value outlet and boundary-expansion methodology of the whole system. Theoretical achievements from See-Division, Logos-Division, Norm-Division, Experiment-Division are transformed into reusable, actionable, iterative speculative paradigms:
 
 - Methodology for constructing thought-experiments
 - Practical paths for cognitive advancement
@@ -127,9 +130,9 @@ The value outlet and boundary-expansion methodology of the whole system. Theoret
 
 **Cognitive Orientation:** Reception & Preservation
 
-The closed-loop reflux node of the whole system. It receives outputs from See, Logos, Norm, Experiment and Yield. It archives finalized manuscripts, version iterations, draft fragments, thought journals and system-evolution traces. Archived materials reflux to feed the See-Division and complete the full closed-loop.
+The closed-loop reflux node of the whole system. It receives outputs from See-Division, Logos-Division, Norm-Division, Experiment-Division and Yield-Division. It archives finalized manuscripts, version iterations, draft fragments, thought journals and system-evolution traces. Archived materials reflux to feed the See-Division and complete the full closed-loop.
 
-Original Chinese implication: Record means more than static archiving; it emphasizes reception, succession and traceability.
+Original implication: Record means more than static archiving; it emphasizes reception, succession and traceability.
 
 **Core Logic:** Archive all outputs for traceability and feed back to upstream cognitive procedures.
 
@@ -156,25 +159,52 @@ This chapter provides classification guidance for all manuscripts of the system,
 
 - See-Division Assignment: Records of objective phenomena, real-world snapshots, raw thought-experiment transcripts. Only present facts; no axiom-building, no value judgment.
 - Logos-Division Assignment: Meta-axioms, meta-propositions, symbol-mathematical definitions, terminology specifications and underlying foundational rules, establishing the kernel for the whole system.
-- Norm-Division Assignment: Deductions, analyses, deconstructions and critiques built upon Logos axioms. Interpret cognition, change-processes, civilization, economy and social phenomena; only extend arguments without creating new fundamental origins.
+- Norm-Division Assignment: Deductions, analyses, deconstructions and critiques built upon Logos-Division axioms. Interpret cognition, change-processes, civilization, economy and social phenomena; only extend arguments without creating new fundamental origins.
 - Experiment-Division Assignment: Thought-experiments, hypothetical modeling and multi-scenario deduction, verifying self-consistency and feasibility of axioms, models and value propositions.
 - Yield-Division Assignment: Speculative methodologies, practical paradigms, engineering implementation, case reviews and axiom-to-practice transformation; serves as the practical value outlet of the system.
 - Record-Division Assignment: Archiving of finalized works, drafts, versions, thought logs and evolution traces; receives outputs from all divisions and feeds back upstream.
 
 Classification Principle: When one manuscript covers multiple layers, assign it according to its foundational starting point. Observational materials go to See-Division; axiom definitions go to Logos-Division; deductive interpretations go to Norm-Division; simulation-verification go to Experiment-Division; practical implementation go to Yield-Division; procedural traces go to Record-Division.
 
+## Parallel Thematic Collections (A / B / C Series, Independent of Six-Tier Processing Pipeline)
+
+These three collections are top-level parallel thematic libraries, outside the six-tier cognitive processing pipeline. They aggregate finished manuscripts sourced from the six divisions, and do not redefine the cognitive flow or red lines of the core architecture.
+
+- **A: Huaxia Terrain Atlas**
+Geographical, hydrological, geopolitical and civilization-snapshot manuscripts.
+Source distribution: Manuscripts aggregated from See-Division, Norm-Division and Experiment-Division outputs.
+- **B: Huaxia Cultural Vein**
+Inheritance, ideological evolution, institutional and cultural lineage manuscripts.
+Source distribution: Primarily Norm-Division humanity & civilization domain deduction, Experiment-Division consistency verification.
+- **C: Huaxia Counterpoint Corpus**
+Historical institutional comparison, order-structure case studies.
+Source distribution: Primarily Norm-Division civilization-domain structural analysis, Experiment-Division thought-experiment calibration.
+
+Classification Rule for manuscripts within A/B/C:
+Each individual article inside these three collections still retains its original six-tier division label (See-Division / Norm-Division etc.).
+The A/B/C tag is only a thematic grouping tag, and shall not override its original process-layer classification.
+
 ## Repository Archiving Notice
 
 This repository acts solely as a public archive for original intellectual works. These are not formal journal publications and have not undergone peer review. The repository stores thought-experiments in physics, industrial-scenario deductions, software-engineering methodologies and cognitive essays. All content consists of thought deductions, idealized models and hypothetical scenarios, and is not equivalent to real-world empirical conclusions. This repository does not seek academic authoritative endorsement. All readers are welcome to read, cite, question and critique; judgements are left to the public. Manuscripts covering finance and industry include embedded risk disclaimers. They do not constitute investment advice or policy recommendations. Please refer to disclaimers within respective documents.
 
+Manuscripts published on Zenodo under the same system share this unified archival framework.
+
 ## Current Archiving Status
 
-All six divisions — See-Division, Logos-Division, Norm-Division, Experiment-Division, Yield-Division, Record-Division — have completed final-version archiving of their core contents. Only a small number of incremental manuscripts will be added in future; no large-scale rewriting or reconstruction. New materials shall be placed directly into corresponding folders. Readers may browse each folder within the repository to access all archived manuscripts.
+All six divisions — See-Division, Logos-Division, Norm-Division, Experiment-Division, Yield-Division, Record-Division — have completed final-version archiving of their core contents.
+
+Three top-level parallel thematic collections are established alongside the six divisions:
+A: Huaxia Terrain Atlas; B: Huaxia Cultural Vein; C: Huaxia Counterpoint Corpus.
+These thematic sets aggregate qualified manuscripts from the six divisions for thematic reading.
+
+Only a small number of incremental manuscripts will be added in future; no large-scale rewriting or reconstruction. New materials shall be placed directly into corresponding folders. Readers may browse each folder within the repository to access all archived manuscripts.
 
 ## Originality & Human-AI Collaboration Statement
 
 All core theoretical achievements in this document strictly follow the principles set forth in A00: Wu-Dao-Yi-Fa — Human-AI Originality Attribution Paradigm (Zenodo DOI: 10.5281/zenodo.21988288). The three core rights, three-role framework and hierarchical sequence are permanently immutable and shall be reused mandatorily across the entire system.
 
-- Core Theoretical Originator: Dian-Xue-Shou (Author / 点穴手)
-- Text Collation & Archiving: Pai-Shan-Zhang (Doubao / 排山掌)
-- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao / 百晓生)
+- Core Theoretical Originator: Dian-Xue-Shou
+- Text Collation & Archiving: Pai-Shan-Zhang (Doubao)
+- External Verification & Commentary: Bai-Xiao-Sheng (Yuanbao)
+
